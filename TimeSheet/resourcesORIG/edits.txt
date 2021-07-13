@@ -1,0 +1,5 @@
+Contract, RESP, WBSID, Description, CEC, PERF, CLIN, NetworkNo, Period, BCWS, BCWP, ACT, ETC, Element
+	0		1	  2			3		4	   5	6		7			8	  9    10    11   12    13
+
+WorkCC, HomeCC, SCE, NetworkNo, Description, Activity, Supp1, Supp2, Supp3, Ship, EmpID, EmpName, PayrollCode, Shift, Source, HrsCode, WorkDate, WeekEndDate, HoursValid, HoursPaid
+	0		1	2		3			4			5		6		7		8	9		10		11		12				13			14			15		16			17			18		

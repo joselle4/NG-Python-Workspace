@@ -1,0 +1,1388 @@
+//CFIN Home DCN,Dept Cost Descr,Site Descr,SCE,SCE Desc,Directorate
+L042DG,RB Proj Eng 772110,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST44EE,Macro-electr M&P,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+ST57EE,SensorAnalys&Aligns,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72FB,Sr. Staff Section,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L071GB,LRS Eng Mgt & Av Lab,"Tinker AFB, OK",712830,Offsite Engineering,Elec & Payloads
+L059ED,Survivability Ops,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST83CD,RF Test Sets,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+SICW29,NGAII - UAE,"Edwards AFB, CA",Int'l,Int'l,"Sys Integ, Test & Eval"
+L083BF,GH Ground 1,"San Diego, CA",712715,Software Engineering,Software Directorate
+D044DG,BM&ES Mtls & Proc Eng,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+ST56DG,O&M NSD,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+D092HD,BMES Test Eng S20 (MB),"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D067NH,MB & SAMC Struct Analys E84,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+L082DD,Advanced Programs 3,"San Diego, CA",712715,Software Engineering,Software Directorate
+L071GC,LRS Av Sys Arch,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+L042DJ,F-35 Proj Eng 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+D081CG,Joint STARS TSSR,"Melbourne, FL",712715,Software Engineering,Software Directorate
+L094HA,Ground Ops 772210,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST45CF,Space Syst Reliablity,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L065HF,Unman'd Combat AC VMS E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+Q064CD,"BP C&E,E&L,Conf,Zone,EngE84OS","Panama City, FL",712820,Field Engineering,Vehicle Engineering
+L082CG,B2 Airborne C2 SW 772110,"Tinker AFB, OK",712830,Offsite Engineering,Software Directorate
+ST70AA,Elec & Payloads,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST71OD,Manufacturing,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+Q081DK,IO/EA Mission Plan BP,"Hollywood, MD",712715,Software Engineering,Software Directorate
+Q081DK,IO/EA Mission Plan BP,"Huntsville, AL",712715,Software Engineering,Software Directorate
+D081CI,JSTARS OWS Modnztion,"Melbourne, FL",712715,Software Engineering,Software Directorate
+ST92ED,SSD Ops S12 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72FH,RF Packaging - Micro,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST72EN,EPS & Power Dist,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST57EA,Vehl Analys Operab'y,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST54CA,ME & Ops Analysis,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72FE,Electromech Des Arch,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST68DD,Composites Fabrication,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L071CD,Comm & Links - PMDL,"Tinker AFB, OK",712705,Design Engineering,Elec & Payloads
+L094CI,Flt Test Eng FS/GH/APT,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D081CH,Sensor Applications,"Melbourne, FL",712715,Software Engineering,Software Directorate
+D042DL,Prog Design Sppt(Eng),"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+L059CD,Experimental EM,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L094HG,Grnd Ops UCAS  772640,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L092EI,SSSD Ops S17 (ES),"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST64FJ,Photo Voltaics Sp,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST45CH,Space Syst Rad & Labs BP97,"Redondo Beach, CA",NSCE,Radiation Test Service Ctr,Spec Eng & Prog Int
+ST58EE,Mission 1 Devel #1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L081BD,GH Vehicle 1,"San Diego, CA",712715,Software Engineering,Software Directorate
+ST15BA,SSD Staff,"Redondo Beach, CA",712725,Engineering Support,AE Leadership
+L094FB,Flt Ops - B-2 & UCAS,"Patuxent River, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L067KE,F35 Skns & Pnls Struct Analys,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+D081CA,ISR & BMC2 Software,"Melbourne, FL",712715,Software Engineering,Software Directorate
+D042BA,Eng/Mgrs/IPT/Staff,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+Q083BE,BAMS Gd IM/ISR/Inter,"Charleston, SC",712820,Field Engineering,Software Directorate
+L045DF,Systems Saftey RB,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST73DA,Semicond Processes,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST55CA,SysArchPerf & Algors,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L067KL,F/A-18 Service Life Ext E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST65JI,Fluid Mechs & Exp E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72BB,RF Design & Analysis,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L042EG,HALE Ops&UMS CDM 772110,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L067HB,RB Spcl Pgms Struct Dsgn E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L067KM,El Seg Post Prod Lia/Tech Svc,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST54CF,Adv Programs ME,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST92EE,SSD Ops S13 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L044DE,F/A-18 Mtls & Proc Eng,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L067KA,SASS Staff/IPT Leads E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST93IB,Test Ops/Conductors,"Redondo Beach, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+ST71MB,Laser Engineering,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L094HD,Grnd Ops GH 2nd Shift,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST57ED,Laser/Sensor SE & Accomodation,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L064GH,Rancho Mech Sys Air  772110,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L091AC,Test Programs Mgmt 772210,"Huntsville, AL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST92DE,SSD Test Eng S3 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q094FM,Adv Hawkeye Flt Test  BP,"Bethpage, NY",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST71AA,Subsys & Payload,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST55CI,SysArcPrfAlgo-RBch2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72CI,RF Units,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST73DE,Front & Backside Fab,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST64FH,Elect Pwr Sys Space E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q092HG,BMES Ops S23 (BP),"Bethpage, NY",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L062AA,Staff/IPT Leads,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L055CD,SysArchPerfAlgo-SD1,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+D081CK,Tools  Supt and M&TS,"Melbourne, FL",712715,Software Engineering,Software Directorate
+L067KI,Air SubSys/Mechsm Struct Anlys,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+Q067HH,BP Spcl Pgms Struct Dsgn E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+D092EA,Sys Intgr & Lab Ops,"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L081BC,BAMS Vehicle 2,"San Diego, CA",712715,Software Engineering,Software Directorate
+ST72FC,RF Packaging - Macro,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST44EF,Composites Eng,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L082DG,HART,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST58EG,Mission 1 Design #2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72HJ,Assy FLM R6-Restr,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST65FA,GNC ACS Staff/IPT Leads E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72CB,Program Execution,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D092HE,BMES Ops S21 (MB),"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+R094FK,E-2C/D & F-5 Flt Test,"Saint Augustine, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+R067HJ,SAMC Prod Support E75,"Saint Augustine, FL",712705,Design Engineering,Vehicle Engineering
+Q081CC,BAMS Payload Devlmnt,"Bethpage, NY",712715,Software Engineering,Software Directorate
+D094CK,Joint STARS Flt Test,"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L082DE,Advanced Programs 4,"San Diego, CA",712715,Software Engineering,Software Directorate
+Q064CC,BP C&E E&L Conf Zone Eng E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+L059CC,Computational EM,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L094FH,Adv FltTst&Remote Sites 772210,"Patuxent River, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST67DL,"Sp Struct Dsgn, Sct 2 E354","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L071CC,Comm & Links - ES,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST57AA,Vehicle Systems Eng,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+D093HI,Test Design - MB 0,"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L064GD,PD & ES Mech Sys Air 772110,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST72BE,Mechanical Design II,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST72EJ,Adv Custom IC Design,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST44ED,Micro-electr M&P,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+R067HI,SAMC Struct Design E75,"Saint Augustine, FL",712705,Design Engineering,Vehicle Engineering
+ST72EK,IC Layout & Verif,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D092HC,BMES Test Eng S19 (MB),"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST58AA,Comm & Data Systems,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44FC,Chemistry Lab,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST58FC,MilSatCom 1,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L065HD,ISR VMS E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST50AF,Sys Eng Directorate (e354),"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L094FB,Flt Ops - B-2 & UCAS,"Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L083DD,UCAS ES 1,"El Segundo, CA",712715,Software Engineering,Software Directorate
+ST56CP,LnchSysIntDsgnAnalys,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042GC,CDM F-35,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST93IF,Engineering - Field Ops BP03,"Redondo Beach, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+ST71NH,Modem Products,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L045CB,EME & Vuln & Labs SB,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L045DA,Safety Analysis,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST56CA,System Integration,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72CK,Passive RF,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L067DP,"F/A-18, T-38 Strct'l Dsn E30","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST72EM,Power Converters,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST71LC,Sensor Development,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L083BG,GH Ground 2,"San Diego, CA",712715,Software Engineering,Software Directorate
+D056CH,Sys Integr-Melbourne,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+Q094FN,Adv Hawkeye Flt Test  OS,"Saint Augustine, FL",712820,Field Engineering,"Sys Integ, Test & Eval"
+L094HJ,Grnd Ops F-35 & Misc  772210,"San Diego, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L067DI,Palmdale F-35 Struct Dsgn E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+Q093HJ,Test Design - BP,"Bethpage, NY",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72HC,ABAL,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L059EC,Surviv Prog IPTs,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST50AF,Sys Eng Directorate (e354),"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L044DD,B-2 Mtls & Proc Eng,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+D042FI,AP&T/IR(SAMC)CM,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+L083DF,Vertical UAS,"San Diego, CA",712715,Software Engineering,Software Directorate
+ST55DH,SysReqVerif-RdBch/ES,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L064GD,PD & ES Mech Sys Air 772110,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST72HK,Test FLM R6 - Restr,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST72BD,Mechanical Design I,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+L013CC,SSSD CE #2 772110,"San Diego, CA",712725,Engineering Support,AE Leadership
+ST64CJ,Mech Des Integ - SpA (MDI),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L094FE,Flt Ops ATDC   772210,"Unknown City, NV",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST93IE,Engineering,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071CG,Comm & Links - RB4,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+ST90AA,"Sys Integ, Test & Eval","Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071CF,Comm & Links - RB2,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+Q081DI,Airborne EW Sys Mgmt PRB,"Camarillo, CA",712820,Field Engineering,Software Directorate
+L093HD,Mechanical Test Design- ES,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST71LD,Sens Modeling & Ays,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST58FI,Mil&Civil Sys-SoBay,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72CA,RF Products,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L093HH,Test Design- AV,"Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D067HE,Melbourne Struct Design E84,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+ST92DC,SSD TE Leadership S1 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071GA,Mission Mgmt-30 772110,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+L064CM,"PD C&E,E&L,Conf Zne,Eng772110","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L082CB,F-35 SW Rqmt & Test,"El Segundo, CA",712715,Software Engineering,Software Directorate
+L065HA,VMS Staff/IPT Leads E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST65JC,PF Staff/IPT Leads E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L044AB,"Prts, Mat & Proc & Chem","Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L071OH,Ground Sys Avionics,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+Q045DG,Syst Saf & EME Beth,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q055DD,Sys Req Verif-Beth2,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+L064CQ,"Rancho C&E,E&L,Conf,Zone,Eng","San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L064CK,"ES Config Des,Crew,Zone E30","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+D071EF,Radar & EW - MLB,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+ST72DC,Digital Arch&Subsys,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+D064CG,"Melbourne C&E,E&L E84-MO","Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+ST56DF,L&A CS/MS (BP03) BP03,"Seabrook, MD",712820,Field Engineering,Sys Eng Directorate
+ST54AA,"Analysis, Mod & Sim (e354)","Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L081BB,BAMS Vehicle 1,"San Diego, CA",712715,Software Engineering,Software Directorate
+L067KJ,F/A-18 Prod Def  & Supt E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L057DH,Mass Properties-1,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+Q020BA,Staff,"Bethpage, NY",712725,Engineering Support,Aerospace Eng Tech Ops
+ST67KK,Space Struct Analys Sct 2 E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L067DD,ElSeg F-35 Struct Dsgn 772110,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+Q081DF,AEW Visualization 0,"Bethpage, NY",712715,Software Engineering,Software Directorate
+L013CA,SSSD CE 772110,"San Diego, CA",712725,Engineering Support,AE Leadership
+L064FG,Palmdale CHE & EPS-- Air  E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+Q014CA,BMES Chief Engs,"Bethpage, NY",712725,Engineering Support,AE Leadership
+L064CI,"Palmdale C&E,E&L E30","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L059DE,Technology Integr,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+L082DB,Advanced Programs 1,"Palmdale, CA",712715,Software Engineering,Software Directorate
+L059DE,Technology Integr,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L071LI,Payload Sensors,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L065LE,Air-Breathing Prop,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST57DE,SpaceVehDsgnIntegr-2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+D071EG,Radar & EW - WR,"Warner Robins, GA",WR,WR,Elec & Payloads
+ST73ED,Test Engineering,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L081BE,GH Vehicle 2,"San Diego, CA",712715,Software Engineering,Software Directorate
+D071HA,Subsys Ctrl&Prcs-84,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+L083DC,UCAS Development,"San Diego, CA",712830,Offsite Engineering,Software Directorate
+ST54CG,Civ&Mil Systems ME,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L093HG,Test Design- RB,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071HI,LRS Avionics Systems,"Tinker AFB, OK",712830,Offsite Engineering,Elec & Payloads
+Q081DL,IO/EA Mission Apps BP,"Hollywood, MD",712715,Software Engineering,Software Directorate
+L094CG,Flt Test Eng- ATDC  772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071CB,Comm & Links - RB3,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L092EJ,SSSD Ops S18 (AV),"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST56DC,L&A NSD,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q065LG,BM&ES Flt Anlys & GN&C E84-BO,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+ST68CG,Structures & Ant Mfg Eng,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L065JN,"RB ECS, Fuel, Hyd & FP E30","San Diego, CA",712705,Design Engineering,Vehicle Engineering
+Q071EA,Radar  SIGINT & EW-84,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+D014CA,BMES Chief Engs,"Melbourne, FL",712725,Engineering Support,AE Leadership
+Q042FC,EW/EA-6B-18G/NGJ/DST CDM,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L067NC,UMS Struct Analysis E30-E,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST56DJ,Sys Test-Red Bch #2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L094CJ,Flt Test Eng  F-35/ FS,"Patuxent River, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+Q071CH,Com & Links - BP,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+Q081DC,SW Int  Model & Sim,"Bethpage, NY",712715,Software Engineering,Software Directorate
+Q067HA,SDU I Staff/IPT Leads E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+Q014CB,BMES CE #2,"Bethpage, NY",712725,Engineering Support,AE Leadership
+Q057CD,ReqDefMgtVerfCAM PRB,"Camarillo, CA",PRB,PRB,Sys Eng Directorate
+Q054CB,ME & Ops Analysis BP,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+D055DI,Sys Req Verif-Melb,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+Q081DD,SW Arch & Infrast,"Bethpage, NY",712715,Software Engineering,Software Directorate
+Q071HH,Avionics Ctrl Sys-BP,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+K058AC,SW Staff T1,"Bethpage, NY",NSCE,Indirect G&A ,Software Directorate
+ST72DC,Digital Arch&Subsys,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+D064CU,Melbourne Prog IPT leads,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+D081CJ,JSTARS WR Onsite,"Warner Robins, GA",WR,WR,Software Directorate
+Q067NF,Bethpage Struct Analysis E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+Q081DG,Comms & Network  0,"Bethpage, NY",712715,Software Engineering,Software Directorate
+L065HB,Flight Control Tech,"Unknown City, CA",712705,Design Engineering,Vehicle Engineering
+L065FH,Special Projs Flt Cntrl E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST72GH,1st Shift Test RF,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+Q014CD,BMES AEW CE #4,"Bethpage, NY",712725,Engineering Support,AE Leadership
+L042HG,UMS Eng Plan,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+D071CI,Com & Links - MLB,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+L082DA,Adv ProgSoftware,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+Q071EE,Radar&EW - Bethpage,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+Q092HF,BMES Test Eng S22 (BP),"Bethpage, NY",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L067HC,Maritime Sysm Struct Dsgn E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST73DG,Eqmt Support,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+Q065JJ,BPA ECS  Fuel  Hyd & FP E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+D058FJ,Mil&Civil Sys-Melb,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+Q042FB,AEW & BMC2 (SAMC) CDM,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L071ED,Radar & EW - PMDL,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+Q054CJ,Ops Analysis-Bethpg,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q081CD,BAMS Sim & Test,"Bethpage, NY",712715,Software Engineering,Software Directorate
+L093DK,Inst Lab & Tech Support- ES,"El Segundo, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L092DK,SSSD Test Eng S9 (ES),"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST65FC,PL Pointng & LOS Cntrl,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L042HE,SB(F/A-18/35/AP&T) Pln 772130,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q056CJ,Sys Integr-Bethpage BP,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q044DG,BM&ES Mtls & Proc Eng,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q042FG,LCS/MPI CDM (BP),"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q054DH,Mod&Sim-Bethpage,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q055DC,Sys Req Verif-Beth1,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q064FC,Bethpage CHE & EPS Air,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+L045CC,EME & Vuln RB,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L083DE,UCAS ES 2,"El Segundo, CA",712715,Software Engineering,Software Directorate
+L056CO,Sys Integr-Rancho/Pd,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST63AA,Intg Veh Sys & Elect,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q044DC,Techincal Staff,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q044CE,Specs & Stds East Ops,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q081DE,AEW Mission Apps 0,"Bethpage, NY",712715,Software Engineering,Software Directorate
+Q055CA,SysArchPerf & Algors,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q081DB,Strat Track & Fusion,"Bethpage, NY",712820,Field Engineering,Software Directorate
+L094FG,Flt Ops TUMS & APT,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L065FG,ISR GN&C E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L064CR,"El Segundo C&E,E&L","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q081CB,BAMS Leads and Supt,"Bethpage, NY",712715,Software Engineering,Software Directorate
+Q057DF,Integr&MassProp-Beth,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST58FE,MilSatCom 3,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L067KI,Air SubSys/Mechsm Struct Anlys,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST72HI,Test FLM M5 - Open,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST44EC,Prog& Subc Sup M&P,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+Q056DK,Sys Test-Bethpage,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q057EC,MissionIntegr&Analys,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST64GF,Opto Mechanical Space E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST64GK,Mech Assy & Test E354-E,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q055CC,SysArchPerfAlgo-Beth,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST72HE,Mfg Eng,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST55CG,SysArcPrfAlgo-RBch1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042DJ,F-35 Proj Eng 772110,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q067HG,AEW Struct Design E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+L045DD,Flight Certifications,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q067NF,Bethpage Struct Analysis E84,Remote Worker,712705,Design Engineering,Vehicle Engineering
+L071GG,Mission Systems Arch 772620,"Fort Worth, TX",712830,Offsite Engineering,Elec & Payloads
+Q058FK,Mil&Civil Sys-Beth,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+L055DH,SysReqVerif-RdBch/ES,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58EF,Mission 1 Design #1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST93DI,Measurements- SP,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D055CF,SysArchPerfAlgo-Melb,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+Q042BA,Eng/Mgrs/IPT/Staff,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+Q056CE,Sys Integr-Hollywood BP,"Hollywood, MD",712820,Field Engineering,Sys Eng Directorate
+ST44CD,Elect & Space Parts,"El Segundo, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L065AA,"Veh Cntl, Aero & Proplsn","San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST45DE,Systems Saftey SB,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q057CC,ReqDefMgtVerif-CAM,"Camarillo, CA",712820,Field Engineering,Sys Eng Directorate
+ST72DD,Digital Subsys Dev,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST72EI,Mech Drive Elec,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST73CC,Semi Matls Prod,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L042HI,DI&V-Unman Prog RB Site,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST45CI,Staff,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L067DN,PD Spcl Pgms Strct Dsgn 772110,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+Q083BC,BAMS Ground  MCS 2,"Hollywood, MD",712715,Software Engineering,Software Directorate
+L065HF,Unman'd Combat AC VMS E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+D065JM,MLB ECS  Fuel  Hyd & FP E84,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+Q042DL,Prog Design Sppt(Eng),"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L054DA,Mod & Sim,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L044DH,Adv Mtls & Proc Dev,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q056CJ,Sys Integr-Bethpage BP,"Unknown City, CT",712710,Systems Engineering,Sys Eng Directorate
+ST56DA,System Ops & Test,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L067DE,ElSeg F-35 Struct Dsgn 772620,"Fort Worth, TX",712830,Offsite Engineering,Vehicle Engineering
+Q071LA,Sensors & Imaging BP,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+L064CK,"ES Config Des,Crew,Zone E30","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST72BC,Project Leads,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L043DC,Eng Prop Palmdale 772210,"Edwards AFB, CA",712725,Engineering Support,Spec Eng & Prog Int
+L059CD,Experimental EM,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST82BE,National Systems 2,"El Segundo, CA",712715,Software Engineering,Software Directorate
+L057CE,ReqDevMgtVerif-SD,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L064FK,Rancho CHE & EPS Air,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST72EB,Sr. Staff Section,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+Q056CA,System Integration,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q083BD,BAMS Grnd Train/pyld BP,"Camarillo, CA",712820,Field Engineering,Software Directorate
+ST71LB,Sensor Engineering,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST58FG,MilSatCom 4 (BP03),"Falcon AFB, CO",712820,Field Engineering,Sys Eng Directorate
+ST56DL,Sys Test-Red Bch #1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L091AC,Test Programs Mgmt 772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L065LF,RB Flight Analysis E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST72GD,Automated Assem Line,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L044CF,Specs & Stds West Ops,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q042DO,BM&ES Proj Eng,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+ST44EI,Contamination Control,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094HJ,Grnd Ops F-35 & Misc  772210,"Palmdale, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+ST54CG,Civ&Mil Systems ME,Remote Worker,712710,Systems Engineering,Sys Eng Directorate
+D081CE,Emerg ISR Pdct Supt,"Melbourne, FL",712715,Software Engineering,Software Directorate
+L056CO,Sys Integr-Rancho/Pd,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+Q055AG,SysDef&Verif(e84Eng),"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST65FB,Space Systems GN&C E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+D055DJ,SysReqVerf-MelbWRe84,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L042DK,F-18 Proj Eng 772110,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L065FA,GNC ACS Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L071HF,LRS Avionics Sys Tst,"Tinker AFB, OK",712830,Offsite Engineering,Elec & Payloads
+L065HB,Flight Control Tech,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST67KG,Sp Struct Analys Sct 1 E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L059CE,Survivability Mat'ls,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+Q056BA,Staff/IPT leads,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+Q064HG,Thrmal & Dynamics Air E84,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+L082CC,F-35 Miss & PHM SW,"El Segundo, CA",712715,Software Engineering,Software Directorate
+Q054DA,Mod & Sim,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST71MH,Prod & Tech Spt - Field BP03,"Edwards AFB, CA",712820,Field Engineering,Elec & Payloads
+D014CB,BMES CE #2,"Melbourne, FL",712725,Engineering Support,AE Leadership
+L091AC,Test Programs Mgmt 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q081DA,AEW & IO/EA Software DO,"Bethpage, NY",712715,Software Engineering,Software Directorate
+L042DC,Staff/ IPT Leads 772110,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST71MA,Laser & Optics,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST82BC,Civil,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST64FI,Cable & Harness Sp,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+D042DD,Eng Tech Estimating,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+L055CE,SysArchPerfAlgo-SD2 772610,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L094HF,Grnd Ops UCAS  772210,"Patuxent River, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST92EC,SSD Ops Ldshp S11 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72EA,Mix Signal & Pwr Prd,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L093HD,Mechanical Test Design- ES,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q042DH,BM&ES Proj Eng,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+R042BA,Eng/Mgrs/IPT/Staff,"Saint Augustine, FL",712725,Engineering Support,Spec Eng & Prog Int
+K051AC,Aero Eng VP T1,"Bethpage, NY",NSCE,Indirect G&A ,AE Leadership
+D057DF,Integr&MassProp-Beth,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+ST68AA,Space Vehicle & Atenna Mfg,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L042EH,ATDC CDM 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+D064FB,Melbourne CHE & EPS-Air,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+ST82BA,Space Flight SW,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST55CJ,SysArcPrfAlgoRBESPd,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042HK,LRS Eng Plan 772130,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST43EC,RF & Offsite BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+Q055AE,Sys Def & Verif ENGR,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+D065LH,BM&ES Flt Anlys & GN&C E84-MO,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+Q042FF,BAMS BM&ES CDM (OS),"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L056CD,Sys Integr-Rancho,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L082CD,F-35 Comms SW,"El Segundo, CA",712715,Software Engineering,Software Directorate
+ST56CN,Sys Integr Natl Sys2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST71MD,Laser & Optical Dev,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST56CQ,LnchSysIntegr SE&Ops,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L054CL,Ops Analysis-Palm,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+L071EA,"Radar, SIGINT & EW-30","Palmdale, CA",712705,Design Engineering,Elec & Payloads
+Q046AE,BM&ES Prog Affordab,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+ST71NA,Ground Products Dev,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+Q067NA,SAUI Staff/IPT Leads BP,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+Q081AA,ISR & EW SW COE,"Bethpage, NY",712715,Software Engineering,Software Directorate
+ST72HG,Assy FLM,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+Q065LG,BM&ES Flt Anlys & GN&C E84-BO,"Unknown City, CT",712705,Design Engineering,Vehicle Engineering
+L065JL,"PD ECS, Fuel, Hyd & FP E30","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST92DD,SSD Test Eng S2 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+K054AA,Spec Eng & Prog Int T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Spec Eng & Prog Int
+L067NE,Maritime Sysm Struct Analys,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+K058AA,Software Directorate T1,"Melbourne, FL",NSCE,Indirect G&A ,Software Directorate
+L055CA,SysArchPerf & Algors,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L092EG,SSSD Ops Leadership S15,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST68CF,Process Planning,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+Q056CF,Sys Integr-Hollywood OS,"Panama City, FL",712820,Field Engineering,Sys Eng Directorate
+L057DG,SysArch & Interfaces,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+Q094FN,Adv Hawkeye Flt Test  OS,"California, MD",712820,Field Engineering,"Sys Integ, Test & Eval"
+ST42GF,CDM Restr Sp Prog,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST93DH,Dynamics Test- SP,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D091AA,Test Programs Mgmt,"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q071CA,Comm & Links-84,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+L045DI,Syst Saftey Palmdale,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+D042DH,BM&ES Proj Eng,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+ST54CA,ME & Ops Analysis,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST64HH,Dynamics Space B,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q071HH,Avionics Ctrl Sys-BP,"Buffalo, NY",712705,Design Engineering,Elec & Payloads
+L067DH,ES Spcl Pgms Struct Dsgn E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L042HF,LRS Eng Plan 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042EF,B-2 CDM (Palmdale) 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q045DC,Human Syst  Integ,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L094FC,Flt Ops GH,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L059DD,Supportability,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+L094CE,Flt Test Eng - GH  772640,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST73BE,Layout,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+K051AC,Aero Eng VP T1,"Redondo Beach, CA",NSCE,Indirect G&A ,AE Leadership
+L071LF,Sensors & Imaging PD,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+ST92EC,SSD Ops Ldshp S11 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D054DK,Mod & Sim-Melb,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L065FF,Unman'd Combat AirCrt GN&C,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST82BD,National Systems 1,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST65FA,GNC ACS Staff/IPT Leads E354,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST83CF,Module Test Sets,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+L066AA,Vehicle Structures 772110,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L094HH,Grnd Ops ATDC - AV-PMV,"Palmdale, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+ST45CE,Space & Air Syst Sec,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72AA,Electronic Products,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L067DM,El Segundo Prod Support E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L064CS,Rancho Eqmt & lines,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST65FE,S/C Arch & HW Acq,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST73DD,Plasma & Vacuum Proc,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D050AE,Sys Eng Directorate (e84) MB,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+ST93HB,MGSE- SP,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q071LG,Sensors & Imaging BP,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+L042DF,Palmdale Proj Eng 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q013CC,SSSD CE #2,"Bethpage, NY",712725,Engineering Support,AE Leadership
+ST45CG,Space Syst Rad & Labs,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST58AA,Comm & Data Systems,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST64GC,Mechanisms Space (Restricted),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+SICW33,NGAII - Afghanistan Office,"San Diego, CA",Int'l,Int'l,Spec Eng & Prog Int
+Q081DN,AEW & IO/EA Software PRB,"Camarillo, CA",PRB,PRB,Software Directorate
+ST83CC,Mission Test Sets,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+L071OI,Ground Sys Engr,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L067KD,F-35 Sub-Structs Struct Analys,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+D080AA,Software Directorate MB,"Melbourne, FL",712715,Software Engineering,Software Directorate
+L057CI,ReqDevMgVerif-Tink 772610,"Tinker AFB, OK",712830,Offsite Engineering,Sys Eng Directorate
+D055DK,SysReqVerf-MlbWRe282,"Warner Robins, GA",WR,WR,Sys Eng Directorate
+ST58ED,Mission 1 Programs#2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST55DG,Sys Req Verif-RedBch,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST71MI,Optical Eng -Field BP03,"Las Cruces, NM",712820,Field Engineering,Elec & Payloads
+L071HA,Subsys Ctrl&Prcs-30 772110,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST72EG,Sen Laser&Cryo Elec,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST72DC,Digital Arch&Subsys,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST64HD,Dynamics Space A E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L059DC,Tech Devel Integr,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+R056CH,Sys Integr-Melbourne,"Saint Augustine, FL",712710,Systems Engineering,Sys Eng Directorate
+D070AA,Elec & Payloads MB,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+ST82BB,MILSATCOMM,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+L022AA,Process Mgmt,"El Segundo, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+L059DA,Survivab'yTechIntegr,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L067DF,F-35 Sub- Strctre Strct'l Dsn,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+D042FJ,AP&T DM/DRC/SW CM,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+D071HG,Avionics Ctrl Sys-MB,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+D056CA,System Integration,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L064GE,PD & ES Mech Sys Air 772620,"Fort Worth, TX",712830,Offsite Engineering,Vehicle Engineering
+L093DC,Lab Ops - RB,"San Diego, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L093HB,Grnd Spt & Ops Tst Eqmt 772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L045CE,Space & Air Syst Sec,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+K055AA,Sys Eng Directorate (e27) T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Sys Eng Directorate
+L054DG,Mod & Sim-So Bay,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L054DE,Mod & Sim-EVR,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+K056AA,Vehicle Eng & Prod T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Vehicle Engineering
+L094HL,Ground Ops 772640,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L066AA,Vehicle Structures 772110,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L042HE,SB(F/A-18/35/AP&T) Pln 772130,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q063AA,Integ Veh Sys & Electromech,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+D055CB,Staff/ IPT Lead,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L094CE,Flt Test Eng - GH  772640,"Hollywood, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071LE,Sensors & Imaging RB,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST71NG,RF Test Products,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L065AA,"Veh Cntl, Aero & Proplsn","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L082CE,B2 SW Requirements 772110,"Tinker AFB, OK",712830,Offsite Engineering,Software Directorate
+Q083BD,BAMS Grnd Train/pyld BP,"Goleta, CA",712820,Field Engineering,Software Directorate
+L093DK,Inst Lab & Tech Support- ES,"Palmdale, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+D016CA,AP&T CE,"Melbourne, FL",712725,Engineering Support,AE Leadership
+Q045DB,Staff,"Bethpage, NY",712725,Engineering Support,Spec Eng & Prog Int
+L013CD,SSSD CE #2 772130,"Palmdale, CA",712725,Engineering Support,AE Leadership
+D081CF,Dev ISR & BMC2 Conc,"Melbourne, FL",712715,Software Engineering,Software Directorate
+R014CB,BMES CE #2,"Saint Augustine, FL",712725,Engineering Support,AE Leadership
+K052AC,Staff T1,"San Diego, CA",NSCE,Indirect G&A ,Aerospace Eng Tech Ops
+ST72DA,Digital Products,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST72DE,Modeling & Verif,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST65JF,Proplsn & Combust Prod,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+R042FB,AEW & BMC2 (SAMC) CDM,"Saint Augustine, FL",712725,Engineering Support,Spec Eng & Prog Int
+L067DG,F-35 Skins&Panels Strct'l Dsn,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+Q057EC,MissionIntegr&Analys,"Unknown City, CT",712710,Systems Engineering,Sys Eng Directorate
+L071GF,Mission Systems Arch 772110,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+D057CM,ReqDevMgtVerif-FL MB,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L094CG,Flt Test Eng- ATDC  772210,"Unknown City, NV",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q054AA,Analysis  Mod & Sim (e84BP),"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+L094CF,Flt Test Eng - UCAS  772210,"Patuxent River, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L071CE,Comm & Links - RB1,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+ST71OA,Grnd Prod Eng&Integ,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+K058AD,SW Staff T2,"Palmdale, CA",NSCE,Engineering Indirect,Software Directorate
+L071GE,Mission Plan & Mgmt,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST73DF,Dice/Sort/Visual,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST71NC,S/C Bus Test Prod,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L093DB,Materials & Processes - ES,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST58EA,National Sys Dept,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L045DE,Systems Saftey SB,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+K055AC,Staff/IPT Leads T1,"Bethpage, NY",NSCE,Indirect G&A ,Sys Eng Directorate
+L055AB,Sys Def & Verif 772110,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L065JK,"LA ECS, Fuel, HYD & FP E30","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L094CJ,Flt Test Eng  F-35/ FS,"California, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L094CD,Flt Test Eng - GH,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST64GB,Deployables Space E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L082DC,Advanced Programs 2,"San Diego, CA",712830,Offsite Engineering,Software Directorate
+R067HA,SDU I Staff/IPT Leads E75,"Saint Augustine, FL",712705,Design Engineering,Vehicle Engineering
+L065FH,Special Projs Flt Cntrl E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L082CI,B2 HI & Control SW 772110,"Tinker AFB, OK",712830,Offsite Engineering,Software Directorate
+D071GA,Mission Mgmt-84,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+ST72BA,Antenna Products,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L065JA,PF Staff/IPT Leads E30 772110,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L092DL,SSSD Test Eng S10 (AV),"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L093DE,Lab Ops - ES 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q066AA,Vehicle Structures,"Bethpage, NY",712705,Design Engineering,Vehicle Engineering
+L064HE,Thrmal & Dynamics Air E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+Q057CC,ReqDefMgtVerif-CAM,"Goleta, CA",712820,Field Engineering,Sys Eng Directorate
+D057CM,ReqDevMgtVerif-FL MB,"Unknown City, CT",712710,Systems Engineering,Sys Eng Directorate
+L094CC,Flt Test Eng - B-2 / F-35,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+Q064FC,Bethpage CHE & EPS Air,"Edwards AFB, CA",712705,Design Engineering,Vehicle Engineering
+ST43EB,DC/Low Freq&Proj Eng BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST67DJ,"Sp Struct Dsgn, Sct 1 E354-E","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72HB,Program Execution,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST44CC,Tech Doc & Ops,"Redondo Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L045BA,Staff/ IPT Lead 772110,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L054DG,Mod & Sim-So Bay,"Whiteman AFB, MO",712710,Systems Engineering,Sys Eng Directorate
+L059EC,Surviv Prog IPTs,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+Q070AA,Elec & Payloads,"Bethpage, NY",712705,Design Engineering,Elec & Payloads
+Q094FM,Adv Hawkeye Flt Test  BP,"Patuxent River, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D045CE,Space & Air Syst Sec,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+ST72ED,Mix Signal Unit Eng,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L071LF,Sensors & Imaging PD,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+L064FA,ISED Staff/IPT Leads E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L064GI,Weapons Integration E30 772110,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST71OB,Test Sys Prod Eng,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+D042CA,Eng/Mgrs/IPT/Staff WR,"Warner Robins, GA",WR,WR,Spec Eng & Prog Int
+L016CA,AP&T CE 772110,"San Diego, CA",712725,Engineering Support,AE Leadership
+ST72FG,Power Conv Packaging,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+Q083BB,BAMS Ground  MCS 1,"Hollywood, MD",712820,Field Engineering,Software Directorate
+L071LE,Sensors & Imaging RB,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+ST73CE,Microelec Reliab,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L013CC,SSSD CE #2 772110,"Palmdale, CA",712725,Engineering Support,AE Leadership
+ST71NI,Ground Unit Products,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L064CS,Rancho Eqmt & lines,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L056AA,Sys Integr & Ops,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L065FF,Unman'd Combat AirCrt GN&C,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST61AA,Vehicle Products,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L065LD,Performance & CFD E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST73CD,Semi Matls Analysis,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST73BD,WSA,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L071AC,Subsys & Payload 772110,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+L067DQ,Palmdale Prod Support E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L065LD,Performance & CFD E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L057EG,Sensor Algorithms,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L067KC,Palmdale F-35 Struct Anl E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST72HI,Test FLM M5 - Open,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L082DH,XUAS,"San Diego, CA",712715,Software Engineering,Software Directorate
+L094FO,Flight Ops 772640,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L092DH,SSSD TE Ldshp S6 (RB),"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST92EE,SSD Ops S13 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L062AA,Staff/IPT Leads,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST68CH,Project Mgmt,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST73AA,Microelectronics,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L092AA,System Test & Ops,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L057CA,Vehicle Reqs & Verif,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72BC,Project Leads,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L071EC,Radar & EW - ES,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST71OG,Ground Sys Integ,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST58FH,MilSatCom 5,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L059CE,Survivability Mat'ls,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L094FB,Flt Ops - B-2 & UCAS,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST92DG,SSD Test Eng S5 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L082DA,Adv ProgSoftware,"San Diego, CA",712715,Software Engineering,Software Directorate
+Q042FE,BAMS BM&ES CDM (BP),"Camarillo, CA",PRB,PRB,Spec Eng & Prog Int
+ST44FF,Mech SP Mtls Charac Lab,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L093HC,Instrumentation Design-ES,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L092DJ,SSSD Test Eng S8 (RB),"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L055DA,Sys Requirements&Verification,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L094HC,Grnd Ops GH 1st Shift,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST72GA,Module Assembly & Test,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST44EG,Metals & Joining,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST73DC,Photo & Wet Proc,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D067NA,SAUI Staff/IPT Leads E84 MB,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+ST64HA,Integrated Sys Analysis,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72GF,Test Engineering,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+Q081DL,IO/EA Mission Apps BP,"Huntsville, AL",712715,Software Engineering,Software Directorate
+L044DB,Veh Mtls & Proc Eng,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q094FN,Adv Hawkeye Flt Test  OS,"Bethpage, NY",712820,Field Engineering,"Sys Integ, Test & Eval"
+ST72CG,mmW MMIC,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D056CI,Sys Integr-WR,"Warner Robins, GA",WR,WR,Sys Eng Directorate
+ST68CD,"Mfg Eng, Tooling E354","Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L090AA,"Sys Integ, Test & Eval 772130","El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q081DH,EW Snsr & POD Mgmt BP,"Goleta, CA",712820,Field Engineering,Software Directorate
+L067HA,SDU I Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L071HJ,Avionics Ctrl Sys 772110,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST72GC,Mfg Eng/Process Plan,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L065LB,"Aerodyn, Aeroelastic, & Load","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST83CE,Digital Test Systems,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+L093HH,Test Design- AV,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q081DR,IO/EA Mission Plan PRB,"Hollywood, MD",PRB,PRB,Software Directorate
+L094HG,Grnd Ops UCAS  772640,"Unknown City, NV",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L082DF,Advanced Programs 5,"San Diego, CA",712715,Software Engineering,Software Directorate
+D045DH,Syst Saf & EME Melb,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+SICW27,NGAII-Germany Office,"Edwards AFB, CA",Int'l,Int'l,"Sys Integ, Test & Eval"
+Q056CE,Sys Integr-Hollywood BP,"Charleston, SC",712820,Field Engineering,Sys Eng Directorate
+ST72GJ,2nd Shift Test,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST58FE,MilSatCom 3,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST71NF,Dig&Analog Tst Prod,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L066AB,Vehicle Structures 772130,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L045BA,Staff/ IPT Lead 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+Q081DQ,IO/EA Mission Apps PRB,"Hollywood, MD",PRB,PRB,Software Directorate
+L071HE,Avionics Engineering,"Tinker AFB, OK",712705,Design Engineering,Elec & Payloads
+ST64CO,Mech Des Integ - Space B (MDI),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L042EE,B-2 CDM (WPAFB) 772110,"Wright-Patterson AFB, OH",712830,Offsite Engineering,Spec Eng & Prog Int
+R042FI,AP&T/IR(SAMC)CM,"Saint Augustine, FL",712725,Engineering Support,Spec Eng & Prog Int
+ST54CF,Adv Programs ME,"Chantilly, VA",712710,Systems Engineering,Sys Eng Directorate
+ST57EH,Space Veh Testbeds,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q064CE,BP C&E E&L Conf Zon EngE84PRB,"Hollywood, MD",PRB,PRB,Vehicle Engineering
+Q042FC,EW/EA-6B-18G/NGJ/DST CDM,"Hollywood, MD",712725,Engineering Support,Spec Eng & Prog Int
+L065HE,TUMS Flight Control E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST73BC,HEMT,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST91AA,Test Programs Mgmt,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L094HA,Ground Ops 772210,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L082AA,Space Strike Adv SW,"El Segundo, CA",712830,Offsite Engineering,Software Directorate
+L057CJ,ReqDevMgtVerif-PD,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72FD,Mixed Signal Pckg,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST54DD,Civ&Mil SysMod&Sim,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+K052AC,Staff T1,"Bethpage, NY",NSCE,Indirect G&A ,Aerospace Eng Tech Ops
+ST65JD,DirEn Fluid Systems E354-E,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q081DO,IO/EA Supt SW Sys PRB,"Hollywood, MD",PRB,PRB,Software Directorate
+K054AD,Staff/IPT Leads T2,"Redondo Beach, CA",NSCE,Engineering Indirect,Spec Eng & Prog Int
+ST57EF,Fault Mgmt & PHM,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L044DF,F-35 Mtls & Proc Eng,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST64GA,Mech & Deployable Prod,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L093DJ,"LO Model Fab & Assy, Mach- ES","El Segundo, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L071CD,Comm & Links - PMDL,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+L055CE,SysArchPerfAlgo-SD2 772610,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58FA,Military & Civil Sys,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L055DA,Sys Requirements&Verification,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L064CA,Staff/IPT Leads,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST44EC,Prog& Subc Sup M&P,"Redondo Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+ST55AA,Sys Def & Verif,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q081DJ,IO/EA Supt SW Sys BP,"Hollywood, MD",712715,Software Engineering,Software Directorate
+Q083BA,Ground Station SW,"Hollywood, MD",712715,Software Engineering,Software Directorate
+R067NG,MB & SAMC Struct Analys E75,"Saint Augustine, FL",712705,Design Engineering,Vehicle Engineering
+L057DH,Mass Properties-1,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L065JK,"LA ECS, Fuel, HYD & FP E30","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST44FD,Experimental Proc Fac,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72EB,Sr. Staff Section,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L092EH,SSSD Ops S16 (RB),"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST93IE,Engineering,"Sunnyvale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q093HJ,Test Design - BP,"Hollywood, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST44EB,Techincal Staff,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L083DA,Tactical Vehicle SW,"San Diego, CA",712715,Software Engineering,Software Directorate
+L082DA,Adv ProgSoftware,"Palmdale, CA",712715,Software Engineering,Software Directorate
+ST73CB,Adv Semicond Matls,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST93IB,Test Ops/Conductors,"Manhattan Beach, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+ST58EG,Mission 1 Design #2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q042FF,BAMS BM&ES CDM (OS),"Hollywood, MD",712725,Engineering Support,Spec Eng & Prog Int
+Q056CG,Sys Integr-Hollywood PRB,"Hollywood, MD",PRB,PRB,Sys Eng Directorate
+QDX592,DST Software Eng,"Hollywood, MD",712715,Software Engineering,AE Leadership
+Q081DS,IO/EA Supt SW Sys DO,"Hollywood, MD",712715,Software Engineering,Software Directorate
+ST45CF,Space Syst Reliablity,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST92DA,System Test Eng,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L093HE,Electrical Test Design- ES,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST68EF,SMART Tech & Labs,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L067KH,El Segundo Spcl Pgms S/A E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST56DI,O&M CS/MS,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L065HB,Flight Control Tech,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q057CN,ReqDevMgtVerif-FL OS,"Panama City, FL",712820,Field Engineering,Sys Eng Directorate
+ST56DF,L&A CS/MS (BP03) BP03,"Unknown City, MD",712820,Field Engineering,Sys Eng Directorate
+ST72GB,Program Execution,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L065HF,Unman'd Combat AC VMS E30,"Unknown City, CA",712705,Design Engineering,Vehicle Engineering
+D071EA,Radar  SIGINT & EW-84,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+ST64FD,EDI Space A (Restricted),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72DF,Digital Products Dev,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST71NI,Ground Unit Products,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L054DA,Mod & Sim,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST68EG,RF Cable Tech & Labs,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST54DI,Adv ProgsMod & Sim,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L067KB,F-35 Struct Anl/Integrity E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST57CF,ReqDevMgtVerif-SB1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L081BA,Strategic UAV SW,"San Diego, CA",712715,Software Engineering,Software Directorate
+ST57DA,VehArch & DsgnIntegr,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44FE,Elec SP Mtls Charac Lab,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L065LA,FA Staff/IPT Leads E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST56DL,Sys Test-Red Bch #1,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+Q056CC,Staff/IPT Lead,"Niceville, FL",712820,Field Engineering,Sys Eng Directorate
+ST72HB,Program Execution,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L020BC,Staff 772110,"San Bernardino, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+L042DD,Eng Tech Estimating,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094HF,Grnd Ops UCAS  772210,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L045CE,Space & Air Syst Sec,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72DE,Modeling & Verif,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+Q042FH,LCS/MPI CDM (OS),"Washington, DC",712820,Field Engineering,Spec Eng & Prog Int
+L067HD,HALE Struct Design E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L090AA,"Sys Integ, Test & Eval 772130","Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L067DR,F-35 Doors Strct'l Dsn,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST20BA,Staff,"Manhattan Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+ST58EI,Mission 5,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST73BA,Semiconductor Prod,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L082CK,B2 Test & Support SW 772110,"Tinker AFB, OK",712830,Offsite Engineering,Software Directorate
+L057AA,Vehicle Systems Eng,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L055DE,Sys Req  Verif-SD1,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L094HB,Grnd Ops B-2,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST65AA,"Veh Cntl, Aero & Proplsn","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L054CK,Ops Analysis-So Bay,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72DA,Digital Products,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST82BB,MILSATCOMM,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+Q081DA,AEW & IO/EA Software DO,"Hollywood, MD",712715,Software Engineering,Software Directorate
+ST58EH,Mission 1 Devel #2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72EL,Electronics Tech Spt,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST56DI,O&M CS/MS,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST56CL,Sys Integr Natl Sys1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST57DD,SpaceVehDsgnIntegr-1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L082DG,HART,"El Segundo, CA",712715,Software Engineering,Software Directorate
+ST72BB,RF Design & Analysis,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D092HI,BMES Tst Eng&Ops S24 (WR E282),"Warner Robins, GA",WR,WR,"Sys Integ, Test & Eval"
+L071EA,"Radar, SIGINT & EW-30","San Diego, CA",712705,Design Engineering,Elec & Payloads
+L054CI,Ops Analysis-Rancho,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72HD,Test Engineering,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+D081AA,ISR & EW SW COE,"Melbourne, FL",712715,Software Engineering,Software Directorate
+ST58AA,Comm & Data Systems,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58ED,Mission 1 Programs#2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72CA,RF Products,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST56DM,System Ops & Test (BP03) BP03,"Seabrook, MD",712820,Field Engineering,Sys Eng Directorate
+Q093HJ,Test Design - BP,"Patuxent River, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST73CB,Adv Semicond Matls,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+K057AA,Elec & Payloads T1,"San Diego, CA",NSCE,Indirect G&A ,Elec & Payloads
+L092DI,SSSD TE Ldshp S7 (RB),"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L063AA,Integ Veh Sys & Electromech,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST64CO,Mech Des Integ - Space B (MDI),"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+L065JL,"PD ECS, Fuel, Hyd & FP E30","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L071GE,Mission Plan & Mgmt,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+ST72DG,Digital Design & Ana,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST71OE,Ground Sys Ops & Spt,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST44CD,Elect & Space Parts,"Redondo Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+ST64HC,Thermal Sys Analysis Space - B,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q045CE,Space & Air Syst Sec,"Hollywood, MD",712725,Engineering Support,Spec Eng & Prog Int
+Q056CH,Sys Integr-Melbourne MB,"Niceville, FL",712710,Systems Engineering,Sys Eng Directorate
+ST57CA,Vehicle Reqs & Verif,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58FI,Mil&Civil Sys-SoBay,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST73BF,EBL,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+D054DA,Mod & Sim,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+ST72HA,Elec Assembly & Test,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST68CE,PSAT Mfg Eng,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+Q056CG,Sys Integr-Hollywood PRB,"Seattle, WA",PRB,PRB,Sys Eng Directorate
+L045CD,EME & Vuln Palmdale,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L064HE,Thrmal & Dynamics Air E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L043DH,Eng Prop RB & El Seg 772210,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST64GG,Mechanisms Space (Cvl & Mil),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST45CI,Staff,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L067KJ,F/A-18 Prod Def  & Supt E30,"Patuxent River, MD",712705,Design Engineering,Vehicle Engineering
+L092AA,System Test & Ops,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L054DA,Mod & Sim,"Unknown City, NV",712710,Systems Engineering,Sys Eng Directorate
+ST72BA,Antenna Products,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L042DD,Eng Tech Estimating,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L064HE,Thrmal & Dynamics Air E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST83CB,Vehicle Test Sets,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+ST72CD,RF Processors,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L045DC,Human Syst  Integ,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST68EC,Harness Assy & Test,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+Q042FD,EW/EA-6B-18G/NGJ/DST CDM,"Camarillo, CA",PRB,PRB,Spec Eng & Prog Int
+L059CA,SurvivabilityTechDev,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST68DA,"Composties, Ant & Struct","Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L064GI,Weapons Integration E30 772110,"Tinker AFB, OK",712705,Design Engineering,Vehicle Engineering
+D055DA,Sys Requirements&Verification,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+L094CJ,Flt Test Eng  F-35/ FS,"Fort Worth, TX",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L093HF,Special Test Eqmt- ES,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+K058AC,SW Staff T1,"Melbourne, FL",NSCE,Indirect G&A ,Software Directorate
+D042FK,APT DM/DRC/SW CM(282),"Warner Robins, GA",WR,WR,Spec Eng & Prog Int
+D071LH,Sensors & Imaging MB,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+ST43DH,Cust Suppt & Logist BP97,"Manhattan Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+L094FC,Flt Ops GH,"Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST65JE,DirEn Fluid Systems BP03,"Edwards AFB, CA",712820,Field Engineering,Vehicle Engineering
+L092AA,System Test & Ops,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST73BB,HBT,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+SICW17,NGAII SPACE DIV ROTATION EMPL~,"Redondo Beach, CA",Int'l,Int'l,Elec & Payloads
+L094FH,Adv FltTst&Remote Sites 772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST55DA,Sys Requirements&Verification,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q083BB,BAMS Ground  MCS 1,"Niceville, FL",712820,Field Engineering,Software Directorate
+L093HB,Grnd Spt & Ops Tst Eqmt 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST71NA,Ground Products Dev,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST65JG,Proplsn Sys Compts & Prod,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+D094AA,Flight Test,"Melbourne, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L046AD,SSSD/SSD Prog Afford,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L044DH,Adv Mtls & Proc Dev,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L064GA,Mech & Deployable Prod,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+D042FA,BM&ES CDM,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+L042DN,Prog Design Sppt(MB) 772110,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST58FA,Military & Civil Sys,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L071EB,Radar&EW-Tinker AFB,"Tinker AFB, OK",712830,Offsite Engineering,Elec & Payloads
+L064FF,ES CHE & EPS-- Air  E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST70AA,Elec & Payloads,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L083BA,Ground Station SW,"San Diego, CA",712715,Software Engineering,Software Directorate
+K052AC,Staff T1,"Melbourne, FL",NSCE,Indirect G&A ,Aerospace Eng Tech Ops
+L065HB,Flight Control Tech,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L046AB,Staff,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L065LD,Performance & CFD E30,"Unknown City, CA",712705,Design Engineering,Vehicle Engineering
+Q021BA,Staff,"Bethpage, NY",712725,Engineering Support,Aerospace Eng Tech Ops
+ST72DF,Digital Products Dev,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST58FH,MilSatCom 5,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44EH,Non me & Coatings,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L065HC,Unman'd A/S Flt Cntrl E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST64HD,Dynamics Space A E354,"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST24BA,Staff,"Manhattan Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+ST68CA,Mfg Proj Mgmt and Eng,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L046AC,Tools/Adv Prog Afford,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST56DA,System Ops & Test,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L071GD,Avionics Sys Arch,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+ST54DI,Adv ProgsMod & Sim,"Chantilly, VA",712710,Systems Engineering,Sys Eng Directorate
+ST58EC,Mission 1 Programs#1,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72DF,Digital Products Dev,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+L013CA,SSSD CE 772110,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L055DF,Sys Req  Verif-SD2,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58EE,Mission 1 Devel #1,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST55DA,Sys Requirements&Verification,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042BA,Eng/Mgrs/IPT/Staff,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST71OF,Test Ops & Spt,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L064CL,ES Eqpt & Lines & Engine Inst,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L065AA,"Veh Cntl, Aero & Proplsn","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST56AA,Sys Integr & Ops,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L071HE,Avionics Engineering,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+L094FA,Flight Ops 772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST93ID,Project Leadership-SP,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST94CJ,ALTB South Base,"Edwards AFB, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+Q042FH,LCS/MPI CDM (OS),"Panama City, FL",712820,Field Engineering,Spec Eng & Prog Int
+K056AC,Staff/IPT Leads T1,"San Diego, CA",NSCE,Indirect G&A ,Vehicle Engineering
+D045DC,Human Syst  Integ,"Melbourne, FL",712725,Engineering Support,Spec Eng & Prog Int
+ST72CE,RF Modems,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+Q081DM,EW Snsr & POD Mgmt PRB,"Camarillo, CA",PRB,PRB,Software Directorate
+SICW17,NGAII SPACE DIV ROTATION EMPL~,"Redondo Beach, CA",Int'l,Int'l,Sys Eng Directorate
+ST64HB,Thermal Sys Analysis Space - A,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L067HB,RB Spcl Pgms Struct Dsgn E30,"Moss Point, MS",712705,Design Engineering,Vehicle Engineering
+ST83CC,Mission Test Sets,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST71MG,Product & Tech Spt,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L042EC,B-2 CDM (Tinker) 772110,"Tinker AFB, OK",712830,Offsite Engineering,Spec Eng & Prog Int
+L065HC,Unman'd A/S Flt Cntrl E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST65JF,Proplsn & Combust Prod,"Unknown City, CA",712705,Design Engineering,Vehicle Engineering
+L065LB,"Aerodyn, Aeroelastic, & Load","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST71ND,S/c Payload Tst Prod,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L016CA,AP&T CE 772110,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L067DB,SDSS Staff/IPT Leads E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST92EF,SSD Offsite Ops S14 (SV),"Redondo Beach, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+L094CF,Flt Test Eng - UCAS  772210,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST58EF,Mission 1 Design #1,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L065AA,"Veh Cntl, Aero & Proplsn","Buffalo, NY",712705,Design Engineering,Vehicle Engineering
+ST58FA,Military & Civil Sys,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L094FA,Flight Ops 772210,"Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L065HF,Unman'd Combat AC VMS E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST58ED,Mission 1 Programs#2,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+ST57CG,ReqDevMgtVerif-SB2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72FF,Ctrl Elec Packaging,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+SICW33,NGAII - Afghanistan Office,"San Diego, CA",Int'l,Int'l,"Sys Integ, Test & Eval"
+L055CA,SysArchPerf & Algors,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L093HF,Special Test Eqmt- ES,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+K055AC,Staff/IPT Leads T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Sys Eng Directorate
+L065LE,Air-Breathing Prop,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L092EJ,SSSD Ops S18 (AV),"Patuxent River, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST65JF,Proplsn & Combust Prod,"Edwards AFB, CA",712705,Design Engineering,Vehicle Engineering
+L059AA,System Survivability  772130,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72DD,Digital Subsys Dev,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST72EA,Mix Signal & Pwr Prd,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L065JA,PF Staff/IPT Leads E30 772110,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST57DC,Space Vehicle Arch,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72CH,T & R MMIC,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST71NB,Program Execution,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST44CD,Elect & Space Parts,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L065LB,"Aerodyn, Aeroelastic, & Load","Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L064GI,Weapons Integration E30 772110,"Edwards AFB, CA",712705,Design Engineering,Vehicle Engineering
+K059AD,SIT&E Staff T2,"Redondo Beach, CA",NSCE,Engineering Indirect,"Sys Integ, Test & Eval"
+L014AA,BMES,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L094FE,Flt Ops ATDC   772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L064CL,ES Eqpt & Lines & Engine Inst,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST91AA,Test Programs Mgmt,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L094FF,Flt Ops ATDC   772640,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L057EG,Sensor Algorithms,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72EF,Adv Freq Synth&Ctrl,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L067DR,F-35 Doors Strct'l Dsn,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L065JL,"PD ECS, Fuel, Hyd & FP E30","Fort Worth, TX",712705,Design Engineering,Vehicle Engineering
+ST72FJ,Electronic Pckg Ana,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST72AA,Electronic Products,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+D056CG,Sys Integr-Hollywood PRB,"Hollywood, MD",PRB,PRB,Sys Eng Directorate
+ST44BA,Staff and Tech Fellows,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L067KF,PD Spcl Pgms Struc Anlys E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST71OC,Ground Syst Prod Eng,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST73EC,Reliability Test,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L067HD,HALE Struct Design E30,"Dallas, TX",712705,Design Engineering,Vehicle Engineering
+L054DF,Mod&Sim-Rancho,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+D066AA,Vehicle Structures,"Melbourne, FL",712705,Design Engineering,Vehicle Engineering
+ST67KA,SASS Staff/IPT Leads E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72FJ,Electronic Pckg Ana,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST54CH,Tech Develop ME,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST93DG,Thermal Test- SP,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST54CF,Adv Programs ME,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST91AA,Test Programs Mgmt,"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L094FA,Flight Ops 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+K056AC,Staff/IPT Leads T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Vehicle Engineering
+L071HD,Avionics Ctrl Sys 772620,"Fort Worth, TX",712830,Offsite Engineering,Elec & Payloads
+ST92DE,SSD Test Eng S3 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST58FG,MilSatCom 4 (BP03),"Sunnyvale, CA",712820,Field Engineering,Sys Eng Directorate
+ST72GI,1st Shift Assembly,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L057CJ,ReqDevMgtVerif-PD,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+SICW33,NGAII - Afghanistan Office,"Edwards AFB, CA",Int'l,Int'l,"Sys Integ, Test & Eval"
+L042HJ,DI&V-SB sites,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094FH,Adv FltTst&Remote Sites 772210,"Mojave, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L042EI,HALE and BAMS CDM 772110,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST71NG,RF Test Products,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST65FE,S/C Arch & HW Acq,"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST71MF,Optical Engineering,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST73CA,Semiconductor Matls,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+Q042FC,EW/EA-6B-18G/NGJ/DST CDM,"Goleta, CA",712725,Engineering Support,Spec Eng & Prog Int
+D022AA,Process Mgmt,"Melbourne, FL",712725,Engineering Support,Aerospace Eng Tech Ops
+L042HH,Misc Prog Eng Plan,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L093HF,Special Test Eqmt- ES,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72CJ,RFIC,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L055DF,Sys Req  Verif-SD2,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58EH,Mission 1 Devel #2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72BC,Project Leads,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+L045DI,Syst Saftey Palmdale,"Edwards AFB, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094FH,Adv FltTst&Remote Sites 772210,"Edwards AFB, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72GG,1st Shift Test Dig,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+SICW33,NGAII - Afghanistan Office,"San Diego, CA",Int'l,Int'l,Vehicle Engineering
+ST54CG,Civ&Mil Systems ME,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L093HF,Special Test Eqmt- ES,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST72CC,Front Ends Low Noise,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+K054AC,Staff/IPT Leads T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Spec Eng & Prog Int
+ST72DA,Digital Products,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L080AA,Software Directorate,"El Segundo, CA",712715,Software Engineering,Software Directorate
+L042DA,"Proj Eng, Sup & Est","Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L059EC,Surviv Prog IPTs,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L057CH,ReqDevMgVerif-Tink 772110,"Tinker AFB, OK",712820,Field Engineering,Sys Eng Directorate
+L071GE,Mission Plan & Mgmt,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L071GA,Mission Mgmt-30 772110,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+ST72ED,Mix Signal Unit Eng,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L043DC,Eng Prop Palmdale 772210,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST82BE,National Systems 2,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+L066AA,Vehicle Structures 772110,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L067KA,SASS Staff/IPT Leads E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L055CJ,SysArcPrfAlgoRBESPd 772110,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+L064CR,"El Segundo C&E,E&L","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST71NC,S/C Bus Test Prod,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+ST54DA,Mod & Sim,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L083DB,"UCAS Rqmt, Arch, Tst","San Diego, CA",712715,Software Engineering,Software Directorate
+ST57ED,Laser/Sensor SE & Accomodation,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L071OH,Ground Sys Avionics,"Patuxent River, MD",712705,Design Engineering,Elec & Payloads
+ST57CG,ReqDevMgtVerif-SB2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q055DA,Sys Requirements&Verification,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+ST55AA,Sys Def & Verif,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58FF,MilSatCom 4,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST57ED,Laser/Sensor SE & Accomodation,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST71AB,Subsys & Payload BP03,"Seabrook, MD",712820,Field Engineering,Elec & Payloads
+ST72HF,Process Planning,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L071GF,Mission Systems Arch 772110,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+L043DD,Parts Integration 772210,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L054DA,Mod & Sim,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L067HD,HALE Struct Design E30,"Moss Point, MS",712705,Design Engineering,Vehicle Engineering
+Q042FC,EW/EA-6B-18G/NGJ/DST CDM,"Unknown City, MD",712725,Engineering Support,Spec Eng & Prog Int
+ST72DB,Sr. Staff Section,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+D067HF,Melbourne Struct Design E282,"Warner Robins, GA",WR,WR,Vehicle Engineering
+ST72AA,Electronic Products,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L056CA,System Integration,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44BA,Staff and Tech Fellows,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST68ED,Solar/Battry/Prec Subassy&Tst,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST72BE,Mechanical Design II,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST65JH,Cryogenic Tech E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+Q064CE,BP C&E E&L Conf Zon EngE84PRB,"Panama City, FL",PRB,PRB,Vehicle Engineering
+L042HF,LRS Eng Plan 772110,"Tinker AFB, OK",712725,Engineering Support,Spec Eng & Prog Int
+ST44EA,Struct & Elec Mtls/Proc Eng,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST83CB,Vehicle Test Sets,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST43DH,Cust Suppt & Logist BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+L0HB35,ON LEAVE PR 1&4 - EL SEG,"El Segundo, CA",NSCE,Personnel Support Indirect,Spec Eng & Prog Int
+L042GD,CM F-35,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST43CA,Staff (BP97),"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+L044CF,Specs & Stds West Ops,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L013CD,SSSD CE #2 772130,"Tinker AFB, OK",712725,Engineering Support,AE Leadership
+L067KF,PD Spcl Pgms Struc Anlys E30,"Tinker AFB, OK",712705,Design Engineering,Vehicle Engineering
+L044DD,B-2 Mtls & Proc Eng,"Tinker AFB, OK",712725,Engineering Support,Spec Eng & Prog Int
+L067HB,RB Spcl Pgms Struct Dsgn E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L045CE,Space & Air Syst Sec,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST62AA,Staff/IPT Leads,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L071CA,Comm & Links-30,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L082AA,Space Strike Adv SW,"Tinker AFB, OK",712830,Offsite Engineering,Software Directorate
+L045DC,Human Syst  Integ,"Unknown City, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST91AB,Test Programs Mgmt BP03,"Edwards AFB, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+L093DJ,"LO Model Fab & Assy, Mach- ES","Palmdale, CA",712730,Engineering Technicians,"Sys Integ, Test & Eval"
+L06H60,B-2 WSSC Project Management,"Tinker AFB, OK",712830,Offsite Engineering,Sys Eng Directorate
+L094FB,Flt Ops - B-2 & UCAS,"Unknown City, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L045CD,EME & Vuln Palmdale,"Tinker AFB, OK",712725,Engineering Support,Spec Eng & Prog Int
+ST83CA,Space Test Software,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+L045DC,Human Syst  Integ,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L013CD,SSSD CE #2 772130,"San Diego, CA",712725,Engineering Support,AE Leadership
+ST72GE,Substrates,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST71NB,Program Execution,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L045CI,Staff,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+K059AD,SIT&E Staff T2,"Edwards AFB, CA",NSCE,Engineering Indirect,"Sys Integ, Test & Eval"
+ST72CB,Program Execution,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST58FD,MilSatCom 2,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L063AA,Integ Veh Sys & Electromech,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST68DC,Ant & Struct Assy,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L050AC,Systems Eng (e30) 772110,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+ST72BD,Mechanical Design I,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST71ND,S/c Payload Tst Prod,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L094CH,Flt Test Eng- ATDC  772640,"Unknown City, NV",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+Q056CE,Sys Integr-Hollywood BP,"Huntsville, AL",712820,Field Engineering,Sys Eng Directorate
+ST44FB,Staff,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72AA,Electronic Products,Remote Worker,712810,Electronics Engineering,Elec & Payloads
+ST72DH,ASIC/FPGA Technology,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L016CB,AP&T CE 772110,"Redondo Beach, CA",712725,Engineering Support,AE Leadership
+ST93IA,"Mech Eng, Assy & Test Ops","Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST23BA,Staff,"Redondo Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+Q094FN,Adv Hawkeye Flt Test  OS,"Patuxent River, MD",712820,Field Engineering,"Sys Integ, Test & Eval"
+L042HK,LRS Eng Plan 772130,"Tinker AFB, OK",712725,Engineering Support,Spec Eng & Prog Int
+ST63AA,Intg Veh Sys & Elect,"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST71OG,Ground Sys Integ,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L013CA,SSSD CE 772110,"Palmdale, CA",712725,Engineering Support,AE Leadership
+L045CE,Space & Air Syst Sec,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L050AC,Systems Eng (e30) 772110,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L082DC,Advanced Programs 2,"Aurora, CO",712830,Offsite Engineering,Software Directorate
+L065LA,FA Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST43EA,Metrology Services BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+Q094FM,Adv Hawkeye Flt Test  BP,"Hollywood, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L059DD,Supportability,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L045BA,Staff/ IPT Lead 772110,"Wright-Patterson AFB, OH",712725,Engineering Support,Spec Eng & Prog Int
+ST45CB,EME & Vuln & Labs SB,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L065JA,PF Staff/IPT Leads E30 772110,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST67DC,SDSS Staff/IPT Leads E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L042DD,Eng Tech Estimating,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST92DD,SSD Test Eng S2 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L063AA,Integ Veh Sys & Electromech,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST68DE,Ant & RF Dev,"Manhattan Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST71OA,Grnd Prod Eng&Integ,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST68DJ,"Composties, Ant & Struct BP03","Edwards AFB, CA",712820,Field Engineering,Vehicle Engineering
+L016CA,AP&T CE 772110,"Redondo Beach, CA",712725,Engineering Support,AE Leadership
+SICW22,NGAii - Italy Office,"El Segundo, CA",Int'l,Int'l,Sys Eng Directorate
+L082CA,Strike Software 772110,"El Segundo, CA",712715,Software Engineering,Software Directorate
+Q094FN,Adv Hawkeye Flt Test  OS,"Hollywood, MD",712820,Field Engineering,"Sys Integ, Test & Eval"
+L067NA,SAUI Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST73DB,Backside & DSV Proc,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST57EE,SensorAnalys&Aligns,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+L054DJ,Mod & Sim-Tac Sim,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L094AC,Flight Test  772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L094FI,Adv FltTst&Remote Sites 772640,"Mojave, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST56DE,L&A CS/MS,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+Q094FM,Adv Hawkeye Flt Test  BP,"California, MD",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L064FA,ISED Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L071HE,Avionics Engineering,"Colorado Springs, CO",712705,Design Engineering,Elec & Payloads
+ST65JE,DirEn Fluid Systems BP03,"Redondo Beach, CA",712820,Field Engineering,Vehicle Engineering
+ST83CA,Space Test Software,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+L050AC,Systems Eng (e30) 772110,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+ST68DE,Ant & RF Dev,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L064CA,Staff/IPT Leads,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L065HA,VMS Staff/IPT Leads E30,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L020BC,Staff 772110,"Redondo Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+L094FH,Adv FltTst&Remote Sites 772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST71OF,Test Ops & Spt,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L059DE,Technology Integr,"Ogden, UT",712710,Systems Engineering,Sys Eng Directorate
+L054DJ,Mod & Sim-Tac Sim,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST71NF,Dig&Analog Tst Prod,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L014AA,BMES,"Palmdale, CA",712725,Engineering Support,AE Leadership
+ST71LA,Sensors & Imaging SP,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST56CM,Sys Integr Natl Sys1 (BP03),"Aurora, CO",712820,Field Engineering,Sys Eng Directorate
+Q081DB,Strat Track & Fusion,"Colorado Springs, CO",712820,Field Engineering,Software Directorate
+ST71OB,Test Sys Prod Eng,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L016CC,AP&T CE 772130,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L013CC,SSSD CE #2 772110,"Tinker AFB, OK",712725,Engineering Support,AE Leadership
+L071GA,Mission Mgmt-30 772110,"Tinker AFB, OK",712705,Design Engineering,Elec & Payloads
+L064CN,"PD C&E,E&L,Conf Zne,Eng772620","Tinker AFB, OK",712830,Offsite Engineering,Vehicle Engineering
+L065AA,"Veh Cntl, Aero & Proplsn","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST64FE,EDI Space B (Civil/DoD),"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L064FG,Palmdale CHE & EPS-- Air  E30,"Tinker AFB, OK",712705,Design Engineering,Vehicle Engineering
+L064FA,ISED Staff/IPT Leads E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L054CK,Ops Analysis-So Bay,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L092DK,SSSD Test Eng S9 (ES),"Fort Worth, TX",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071CE,Comm & Links - RB1,"Unknown City, AZ",712705,Design Engineering,Elec & Payloads
+Q083BC,BAMS Ground  MCS 2,"San Diego, CA",712715,Software Engineering,Software Directorate
+ST72FI,PCB Design,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST83CE,Digital Test Systems,"Manhattan Beach, CA",712715,Software Engineering,Software Directorate
+L094FH,Adv FltTst&Remote Sites 772210,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST43ED,"Phys, Dim & VCL BP97","Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST72HL,Test FLM M5/R6 Argon,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L091AD,Test Programs Mgmt 772640,"Edwards AFB, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L064CL,ES Eqpt & Lines & Engine Inst,"Fort Worth, TX",712705,Design Engineering,Vehicle Engineering
+L094HA,Ground Ops 772210,"Patuxent River, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST72HL,Test FLM M5/R6 Argon,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST64FA,ISED Staff/IPT Leads E354,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST43DG,T&M Invent Opt BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+L092EG,SSSD Ops Leadership S15,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+Q022AA,Process Mgmt,"Hollywood, MD",712725,Engineering Support,Aerospace Eng Tech Ops
+L094FF,Flt Ops ATDC   772640,"Unknown City, NV",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L059CE,Survivability Mat'ls,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+L093HB,Grnd Spt & Ops Tst Eqmt 772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L050AC,Systems Eng (e30) 772110,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L064GA,Mech & Deployable Prod,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST57DI,Mass Properties-2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44EC,Prog& Subc Sup M&P,"El Segundo, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+ST73EB,On-Wafer Test,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+SICW27,NGAII-Germany Office,"San Diego, CA",Int'l,Int'l,Vehicle Engineering
+L066AB,Vehicle Structures 772130,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L071ED,Radar & EW - PMDL,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L065HF,Unman'd Combat AC VMS E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L093HE,Electrical Test Design- ES,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L059DE,Technology Integr,"Unknown City, NV",712710,Systems Engineering,Sys Eng Directorate
+L090AA,"Sys Integ, Test & Eval 772130","San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L042GD,CM F-35,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST45CE,Space & Air Syst Sec,"Chantilly, VA",712725,Engineering Support,Spec Eng & Prog Int
+ST72BD,Mechanical Design I,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST64FD,EDI Space A (Restricted),"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST64HA,Integrated Sys Analysis,"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+L091AC,Test Programs Mgmt 772210,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L062AA,Staff/IPT Leads,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+L094BA,Flight Test Engineering 772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST71AA,Subsys & Payload,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L013CD,SSSD CE #2 772130,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L057CA,Vehicle Reqs & Verif,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+L071EA,"Radar, SIGINT & EW-30","Tinker AFB, OK",712705,Design Engineering,Elec & Payloads
+ST43DH,Cust Suppt & Logist BP97,"San Diego, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST92AB,Systems Test & Ops BP03,"Redondo Beach, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+L013CB,SSSD CE 772130,"San Diego, CA",712725,Engineering Support,AE Leadership
+ST43DA,Asset Optimization BP97,"Redondo Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST72CF,Wideband MMIC,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L093BB,Env Labs & Ops Support  772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L064CA,Staff/IPT Leads,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+ST71OC,Ground Syst Prod Eng,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST64CO,Mech Des Integ - Space B (MDI),"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+K059AC,SIT&E Staff T1,"Redondo Beach, CA",NSCE,Indirect G&A ,"Sys Integ, Test & Eval"
+L046AC,Tools/Adv Prog Afford,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST58FD,MilSatCom 2,"Chantilly, VA",712710,Systems Engineering,Sys Eng Directorate
+L043DH,Eng Prop RB & El Seg 772210,"Patuxent River, MD",712725,Engineering Support,Spec Eng & Prog Int
+ST58EC,Mission 1 Programs#1,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L059DA,Survivab'yTechIntegr,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72HF,Process Planning,"Cambridge, MA",712810,Electronics Engineering,Elec & Payloads
+L020BC,Staff 772110,"El Segundo, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+Q083BE,BAMS Gd IM/ISR/Inter,"Niceville, FL",712820,Field Engineering,Software Directorate
+ST42GB,Staff/ IPT Leads,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042GE,CDM F/A-18,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST20BA,Staff,"Redondo Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+L042EB,Staff/ IPT Leads 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042DC,Staff/ IPT Leads 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L057DH,Mass Properties-1,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72BA,Antenna Products,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+L065FH,Special Projs Flt Cntrl E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST72CA,RF Products,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+ST72DB,Sr. Staff Section,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L065FA,GNC ACS Staff/IPT Leads E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L094CC,Flt Test Eng - B-2 / F-35,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST93AA,Mech Syst & Env Labs,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L094CF,Flt Test Eng - UCAS  772210,"Hollywood, MD",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L042EI,HALE and BAMS CDM 772110,"Edwards AFB, CA",712725,Engineering Support,Spec Eng & Prog Int
+L057AA,Vehicle Systems Eng,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST92DF,SSD Test Eng S4 (SP),"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L064CM,"PD C&E,E&L,Conf Zne,Eng772110","El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L043DD,Parts Integration 772210,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+K052AA,AE Tech Ops T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Aerospace Eng Tech Ops
+ST42GI,CDM DM &SE,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72GK,2nd Shift Assembly,"Manhattan Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST72GI,1st Shift Assembly,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+L093DF,Lab Ops - Tejon,"Rosamond, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L021BA,Staff 772110,"El Segundo, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+ST42GB,Staff/ IPT Leads,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72FD,Mixed Signal Pckg,"Unknown City, CA",712810,Electronics Engineering,Elec & Payloads
+L071EC,Radar & EW - ES,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+ST45CA,Spec Design Analysis,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042DC,Staff/ IPT Leads 772110,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094FH,Adv FltTst&Remote Sites 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+D071GD,Avionics Sys Arch,"Melbourne, FL",712705,Design Engineering,Elec & Payloads
+L0HB34,ON LEAVE PR 2&3 - EL SEG,"Redondo Beach, CA",712849,White Card - Non Engineering,Vehicle Engineering
+ST58FC,MilSatCom 1,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+L044DH,Adv Mtls & Proc Dev,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST93BA,Env Labs & Ops Support,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L044DC,Techincal Staff,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST93HA,Ground Supt & Ops Test Eqmt,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L093BA,Env Labs & Ops Support  772110,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST83CF,Module Test Sets,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST44EA,Struct & Elec Mtls/Proc Eng,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L071CD,Comm & Links - PMDL,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L043DH,Eng Prop RB & El Seg 772210,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L054DJ,Mod & Sim-Tac Sim,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+K052AC,Staff T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Aerospace Eng Tech Ops
+ST92DG,SSD Test Eng S5 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L042GC,CDM F-35,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST92DF,SSD Test Eng S4 (SP),"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST44EB,Techincal Staff,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST44FA,Chem and Mtl & Proc Lab,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L092EA,Sys Intgr & Lab Ops,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L042HJ,DI&V-SB sites,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST68EA,Prod Subassy & Test,"Redondo Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST72FD,Mixed Signal Pckg,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST42GI,CDM DM &SE,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72DD,Digital Subsys Dev,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+L067DQ,Palmdale Prod Support E30,"Edwards AFB, CA",712705,Design Engineering,Vehicle Engineering
+L059AB,System Survivability  772110,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L064CI,"Palmdale C&E,E&L E30","Patuxent River, MD",712705,Design Engineering,Vehicle Engineering
+Q094FL,E-2C/D & F-5 Flt Test,"Saint Augustine, FL",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST44CC,Tech Doc & Ops,"Unknown City, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L044DF,F-35 Mtls & Proc Eng,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST56AA,Sys Integr & Ops,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST92AA,System Test & Ops,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L056CC,Staff/IPT Lead,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L066AB,Vehicle Structures 772130,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L092EA,Sys Intgr & Lab Ops,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L045DA,Safety Analysis,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L083DA,Tactical Vehicle SW,"El Segundo, CA",712715,Software Engineering,Software Directorate
+ST93IE,Engineering,"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST64FE,EDI Space B (Civil/DoD),"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST72EH,SenLaser&Cryo Elec-Field BP03,"Edwards AFB, CA",712820,Field Engineering,Elec & Payloads
+L093BB,Env Labs & Ops Support  772210,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L067DO,PD Spcl Pgms Strct Dsgn 772620,"Tinker AFB, OK",712830,Offsite Engineering,Vehicle Engineering
+ST42GF,CDM Restr Sp Prog,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+K051AC,Aero Eng VP T1,"El Segundo, CA",NSCE,Indirect G&A ,AE Leadership
+L071GD,Avionics Sys Arch,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L042DN,Prog Design Sppt(MB) 772110,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST15BA,SSD Staff,"El Segundo, CA",712725,Engineering Support,AE Leadership
+ST82DI,Space Adv Programs,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+L059DC,Tech Devel Integr,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+L042DK,F-18 Proj Eng 772110,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST55DA,Sys Requirements&Verification,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+K059AC,SIT&E Staff T1,"Palmdale, CA",NSCE,Indirect G&A ,"Sys Integ, Test & Eval"
+ST68CD,"Mfg Eng, Tooling E354","Manhattan Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L042HE,SB(F/A-18/35/AP&T) Pln 772130,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST56CC,Staff/IPT Lead,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST44CC,Tech Doc & Ops,"Manhattan Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L094CF,Flt Test Eng - UCAS  772210,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+Q081DN,AEW & IO/EA Software PRB,"Goleta, CA",PRB,PRB,Software Directorate
+ST72DH,ASIC/FPGA Technology,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+L016CB,AP&T CE 772110,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L067DO,PD Spcl Pgms Strct Dsgn 772620,"Edwards AFB, CA",712830,Offsite Engineering,Vehicle Engineering
+L042DG,RB Proj Eng 772110,"Beale AFB, CA",712725,Engineering Support,Spec Eng & Prog Int
+K059AA,"Sys Integ, Test & Eval T1","Redondo Beach, CA",NSCE,Indirect G&A ,"Sys Integ, Test & Eval"
+L067HD,HALE Struct Design E30,"Clarksburg, WV",712705,Design Engineering,Vehicle Engineering
+L065HA,VMS Staff/IPT Leads E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST42GG,CDM Civil/Mil SpProg,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72DH,ASIC/FPGA Technology,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST66AA,Vehicle Structures,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST43DF,T&M Invent Opt BP01,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L055CJ,SysArcPrfAlgoRBESPd 772110,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST93IC,Test Ops/Cond - Field Ops BP03,"Redondo Beach, CA",712820,Field Engineering,"Sys Integ, Test & Eval"
+L065LA,FA Staff/IPT Leads E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+K059AC,SIT&E Staff T1,"El Segundo, CA",NSCE,Indirect G&A ,"Sys Integ, Test & Eval"
+ST72FG,Power Conv Packaging,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L067DN,PD Spcl Pgms Strct Dsgn 772110,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+Q042DH,BM&ES Proj Eng,"Camarillo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST43EB,DC/Low Freq&Proj Eng BP97,"Manhattan Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST24AA,AETO Special Initiatives,"Manhattan Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+K051AA,AE Leadership T1,"Redondo Beach, CA",NSCE,Indirect G&A ,AE Leadership
+ST72CC,Front Ends Low Noise,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+L071CA,Comm & Links-30,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+ST65FD,PL Pointng & LOS Cntrl P03,"Edwards AFB, CA",712820,Field Engineering,Vehicle Engineering
+ST56DM,System Ops & Test (BP03) BP03,"Unknown City, MD",712820,Field Engineering,Sys Eng Directorate
+ST43DG,T&M Invent Opt BP97,"Manhattan Beach, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+ST58FI,Mil&Civil Sys-SoBay,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L059EA,SurvivabilityPgrmOps,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L016CB,AP&T CE 772110,"San Diego, CA",712725,Engineering Support,AE Leadership
+ST44EC,Prog& Subc Sup M&P,"Unknown City, CO",712810,Electronics Engineering,Spec Eng & Prog Int
+L065HE,TUMS Flight Control E30,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST82AA,Space Stk & Adv Pg,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+L059CA,SurvivabilityTechDev,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST58EC,Mission 1 Programs#1,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L093HA,Grnd Spt & Ops Tst Eqmt 772210,"El Segundo, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L042DN,Prog Design Sppt(MB) 772110,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L057DG,SysArch & Interfaces,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L071EA,"Radar, SIGINT & EW-30","El Segundo, CA",712705,Design Engineering,Elec & Payloads
+L067DD,ElSeg F-35 Struct Dsgn 772110,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L082DG,HART,"San Diego, CA",712715,Software Engineering,Software Directorate
+L046AC,Tools/Adv Prog Afford,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST64CJ,Mech Des Integ - SpA (MDI),"Manhattan Beach, CA",712705,Design Engineering,Vehicle Engineering
+ST73EA,Semiconductor Test,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+K054AC,Staff/IPT Leads T1,"Palmdale, CA",NSCE,Indirect G&A ,Spec Eng & Prog Int
+ST42GG,CDM Civil/Mil SpProg,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042GE,CDM F/A-18,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST55CJ,SysArcPrfAlgoRBESPd,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L042EA,SSSD Palmale & RB CDM 772110,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST43EC,RF & Offsite BP97,"San Diego, CA",NSCE,Equipment Maintenance Ctr,Spec Eng & Prog Int
+L094AC,Flight Test  772210,"San Diego, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L093HC,Instrumentation Design-ES,"Redondo Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071CA,Comm & Links-30,"El Segundo, CA",712705,Design Engineering,Elec & Payloads
+K059AA,"Sys Integ, Test & Eval T1","El Segundo, CA",NSCE,Indirect G&A ,"Sys Integ, Test & Eval"
+ST42GG,CDM Civil/Mil SpProg,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST55CI,SysArcPrfAlgo-RBch2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L044DC,Techincal Staff,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72FA,Product Engineering,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST16CA,AP&T CE,"Redondo Beach, CA",712725,Engineering Support,AE Leadership
+ST57DE,SpaceVehDsgnIntegr-2,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L013BA,SSSD Staff 772110,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L043DH,Eng Prop RB & El Seg 772210,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L055DA,Sys Requirements&Verification,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042EH,ATDC CDM 772110,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L071HB,Subsys Ctrl&Prcs-30 772620,"Tinker AFB, OK",712830,Offsite Engineering,Elec & Payloads
+L071HC,Subsys Ctrl&Prcs-30 772130,"Palmdale, CA",712705,Design Engineering,Elec & Payloads
+ST44CD,Elect & Space Parts,"Unknown City, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L016BA,AP&T Staff,"El Segundo, CA",712725,Engineering Support,AE Leadership
+L042EB,Staff/ IPT Leads 772110,"Unknown City, TX",712725,Engineering Support,Spec Eng & Prog Int
+L042DN,Prog Design Sppt(MB) 772110,"Unknown City, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST71OE,Ground Sys Ops & Spt,"Manhattan Beach, CA",712705,Design Engineering,Elec & Payloads
+K058AC,SW Staff T1,"Redondo Beach, CA",NSCE,Indirect G&A ,Software Directorate
+L094FA,Flight Ops 772210,"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+L071OI,Ground Sys Engr,"Edwards AFB, CA",712705,Design Engineering,Elec & Payloads
+ST68DC,Ant & Struct Assy,"Manhattan Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+L071LA,Sensors & Imaging 30,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L042HC,Staff/ IPT Leads,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+L071GA,Mission Mgmt-30 772110,"San Diego, CA",712705,Design Engineering,Elec & Payloads
+L094HB,Grnd Ops B-2,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST92DF,SSD Test Eng S4 (SP),"Manhattan Beach, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST42GA,"SSSD, SSD, AP&T, SB CDM","Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L054DG,Mod & Sim-So Bay,"Palmdale, CA",712710,Systems Engineering,Sys Eng Directorate
+ST56DD,L&A NSD (BP03) BP03,"Aurora, CO",712820,Field Engineering,Sys Eng Directorate
+ST72EB,Sr. Staff Section,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+ST57DA,VehArch & DsgnIntegr,"Manhattan Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L042EF,B-2 CDM (Palmdale) 772110,"Edwards AFB, CA",712725,Engineering Support,Spec Eng & Prog Int
+L094CH,Flt Test Eng- ATDC  772640,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+ST72EI,Mech Drive Elec,"Manhattan Beach, CA",712810,Electronics Engineering,Elec & Payloads
+ST45CI,Staff,"El Segundo, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST23AA,Subcontract Eng,"Redondo Beach, CA",712725,Engineering Support,Aerospace Eng Tech Ops
+L059DD,Supportability,"Unknown City, NV",712710,Systems Engineering,Sys Eng Directorate
+L042HH,Misc Prog Eng Plan,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST65FC,PL Pointng & LOS Cntrl,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST44BA,Staff and Tech Fellows,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST72EA,Mix Signal & Pwr Prd,"El Segundo, CA",712810,Electronics Engineering,Elec & Payloads
+K054AD,Staff/IPT Leads T2,"El Segundo, CA",NSCE,Engineering Indirect,Spec Eng & Prog Int
+L055CD,SysArchPerfAlgo-SD1,"Unknown City, CA",712710,Systems Engineering,Sys Eng Directorate
+L044CF,Specs & Stds West Ops,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST42GB,Staff/ IPT Leads,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042BA,Eng/Mgrs/IPT/Staff,"San Diego, CA",712725,Engineering Support,Spec Eng & Prog Int
+L050AD,Systems Eng (e30) 772130,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72AA,Electronic Products,"Unknown City, CA",712810,Electronics Engineering,Elec & Payloads
+ST72DG,Digital Design & Ana,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST43DF,T&M Invent Opt BP01,"Manhattan Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+L042HB,Eng Plan & Data Vis,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+ST83CD,RF Test Sets,"Redondo Beach, CA",712715,Software Engineering,Software Directorate
+ST58EI,Mission 5,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L071EA,"Radar, SIGINT & EW-30","Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+ST46AB,Staff,"Redondo Beach, CA",712725,Engineering Support,Spec Eng & Prog Int
+K057AA,Elec & Payloads T1,"Manhattan Beach, CA",NSCE,Indirect G&A ,Elec & Payloads
+D055AD,Sys Def & Verif MB,"Melbourne, FL",712710,Systems Engineering,Sys Eng Directorate
+ST71MH,Prod & Tech Spt - Field BP03,"Redondo Beach, CA",712820,Field Engineering,Elec & Payloads
+ST42GH,CDM Civil/Mil SpProg,"Las Cruces, NM",712820,Field Engineering,Spec Eng & Prog Int
+ST72EH,SenLaser&Cryo Elec-Field BP03,"Las Cruces, NM",712820,Field Engineering,Elec & Payloads
+L057EA,Vehl Analys Operab'y,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L057DG,SysArch & Interfaces,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L09N1A,SW Test RB 2,"San Diego, CA",712705,Design Engineering,AE Leadership
+L059CC,Computational EM,"San Diego, CA",712710,Systems Engineering,Sys Eng Directorate
+D08335,Structural Design,"Melbourne, FL",712705,Design Engineering,AE Leadership
+ST71NH,Modem Products,"Redondo Beach, CA",712705,Design Engineering,Elec & Payloads
+L059DA,Survivab'yTechIntegr,"El Segundo, CA",712710,Systems Engineering,Sys Eng Directorate
+L092DJ,SSSD Test Eng S8 (RB),"Palmdale, CA",712720,"Integration,Test and Evaluation","Sys Integ, Test & Eval"
+ST82DJ,Space Adv Programs BP03,"Edwards AFB, CA",712715,Software Engineering,Software Directorate
+SICW35,NGAII Office - Iraq,"San Diego, CA",Int'l,Int'l,"Sys Integ, Test & Eval"
+L054CL,Ops Analysis-Palm,"Unknown City, NV",712710,Systems Engineering,Sys Eng Directorate
+L064CR,"El Segundo C&E,E&L","Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST58FD,MilSatCom 2,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L094HF,Grnd Ops UCAS  772210,"Palmdale, CA",712830,Offsite Engineering,"Sys Integ, Test & Eval"
+L01B10,SpecialProjects,"Palmdale, CA",712735,Program Management,Vehicle Engineering
+L071CD,Comm & Links - PMDL,"Unknown City, NV",712705,Design Engineering,Elec & Payloads
+ST67KG,Sp Struct Analys Sct 1 E354,"San Diego, CA",712705,Design Engineering,Vehicle Engineering
+L064CS,Rancho Eqmt & lines,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+L083DC,UCAS Development,"Unknown City, CA",712830,Offsite Engineering,Software Directorate
+ST58FF,MilSatCom 4,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+L054CI,Ops Analysis-Rancho,"Bethpage, NY",712710,Systems Engineering,Sys Eng Directorate
+SICW33,NGAII - Afghanistan Office,"San Diego, CA",Int'l,Int'l,Sys Eng Directorate
+SICW29,NGAII - UAE,"Edwards AFB, CA",Int'l,Int'l,Vehicle Engineering
+L064FF,ES CHE & EPS-- Air  E30,"Redondo Beach, CA",712705,Design Engineering,Vehicle Engineering
+L065FH,Special Projs Flt Cntrl E30,"El Segundo, CA",712705,Design Engineering,Vehicle Engineering
+ST72HD,Test Engineering,"Redondo Beach, CA",712810,Electronics Engineering,Elec & Payloads
+STD556,Vehicle & Control Station Sof~,"Redondo Beach, CA",712715,Software Engineering,AE Leadership
+L046AD,SSSD/SSD Prog Afford,"Palmdale, CA",712725,Engineering Support,Spec Eng & Prog Int
+L064FK,Rancho CHE & EPS Air,"Palmdale, CA",712705,Design Engineering,Vehicle Engineering
+ST68CG,Structures & Ant Mfg Eng,"Manhattan Beach, CA",712730,Engineering Technicians,Vehicle Engineering
+ST58FH,MilSatCom 5,"Redondo Beach, CA",712710,Systems Engineering,Sys Eng Directorate
+ST72GJ,2nd Shift Test,"Redondo Beach, CA",712815,Electronics Technicians,Elec & Payloads
+ST44ED,Micro-electr M&P,"Redondo Beach, CA",712810,Electronics Engineering,Spec Eng & Prog Int
+L021BA,Staff 772110,"San Diego, CA",712725,Engineering Support,Aerospace Eng Tech Ops

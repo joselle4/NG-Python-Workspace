@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commitmessages>
+<commitmessage>- updated w % spent comment, bw data checks for null IDs/weekend dates</commitmessage>
+<commitmessage>- added MPEXTest class to unit test mpex imports</commitmessage>
+<commitmessage>- incorporated %spent in excel report</commitmessage>
+<commitmessage>- working on current percent complete comment</commitmessage>
+<commitmessage>- updated more namerun file checks</commitmessage>
+<commitmessage>- updated installer version&#13;
+</commitmessage>
+<commitmessage>- reformatted certain functionalities&#13;
+- modified button names</commitmessage>
+<commitmessage>background</commitmessage>
+<commitmessage>-improved background</commitmessage>
+<commitmessage>- progress bars on data load</commitmessage>
+</commitmessages>

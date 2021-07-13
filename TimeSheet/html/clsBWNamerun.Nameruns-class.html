@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>clsBWNamerun.Nameruns</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        <a href="clsBWNamerun-module.html">Module&nbsp;clsBWNamerun</a> ::
+        Class&nbsp;Nameruns
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="clsBWNamerun.Nameruns-class.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- ==================== CLASS DESCRIPTION ==================== -->
+<h1 class="epydoc">Class Nameruns</h1><p class="nomargin-top"><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns">source&nbsp;code</a></span></p>
+<pre class="base-tree">
+object --+
+         |
+        <strong class="uidshort">Nameruns</strong>
+</pre>
+
+<hr />
+<p>This class is dependent on the instances of the following resource 
+  classes: clsETC ==&gt; ETC(), clsMonthlyCalendar ==&gt; MonthlyCalendar()
+  clsWeeklyCalendar ==&gt; WeeklyCalendar() clsEmployee ==&gt; 
+  Employees()</p>
+
+<!-- ==================== INSTANCE METHODS ==================== -->
+<a name="section-InstanceMethods"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Instance Methods</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-InstanceMethods"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#__init__" class="summary-sig-name">__init__</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">MonthlyCalendar</span>,
+        <span class="summary-sig-arg">WeeklyCalendar</span>,
+        <span class="summary-sig-arg">Employees</span>,
+        <span class="summary-sig-arg">ETC</span>)</span><br />
+      x.__init__(...) initializes x; see help(type(x)) for signature</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.__init__">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="parseFile"></a><span class="summary-sig-name">parseFile</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">file_name</span>)</span><br />
+      ' FUNCTION TO LOAD SAP Namerun; need to be in CSV format</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.parseFile">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="parseNANHW"></a><span class="summary-sig-name">parseNANHW</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      creates a unique set of lists with class attributes listarg order: 
+      [network, activity, name, ID, hrs code, weekending date] NANHW order:
+      [network, activity, name, ID, hrs code, weekending date] append order
+      [0,1,2,3,4,5]</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.parseNANHW">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="convertToListItems"></a><span class="summary-sig-name">convertToListItems</span>(<span class="summary-sig-arg">self</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.convertToListItems">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="FindInList"></a><span class="summary-sig-name">FindInList</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">listArgument</span>,
+        <span class="summary-sig-arg">index</span>)</span><br />
+      method to strip a list and assign an element of the list to a 
+      variable; if it's a type error, it will return &quot;&quot;</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.FindInList">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="replaceItem"></a><span class="summary-sig-name">replaceItem</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">data</span>,
+        <span class="summary-sig-arg">replaceThis</span>,
+        <span class="summary-sig-arg">replaceWith</span>)</span><br />
+      uses map to edit each line in the data</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.replaceItem">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="checkEmployeeInNamerun"></a><span class="summary-sig-name">checkEmployeeInNamerun</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">index</span>,
+        <span class="summary-sig-arg">list_args</span>)</span><br />
+      checks for the location of the employee name and employee id in 
+      namerun</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.checkEmployeeInNamerun">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="checkNetworkInNamerun"></a><span class="summary-sig-name">checkNetworkInNamerun</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">index</span>,
+        <span class="summary-sig-arg">list_args</span>)</span><br />
+      checks for the location of the description and network number in 
+      namerun</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.checkNetworkInNamerun">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="MatchTitle"></a><span class="summary-sig-name">MatchTitle</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">lMatch</span>,
+        <span class="summary-sig-arg">Title</span>)</span><br />
+      returns the position of the title in the list of the CSV file</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.MatchTitle">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="SearchTitle"></a><span class="summary-sig-name">SearchTitle</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">lMatch</span>,
+        <span class="summary-sig-arg">Title</span>)</span><br />
+      returns the position of the title in the list of the CSV file</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.SearchTitle">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="listAccountingMonths"></a><span class="summary-sig-name">listAccountingMonths</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      lists accounting months / periods present in the BW namerun</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.listAccountingMonths">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="listActivityCodes"></a><span class="summary-sig-name">listActivityCodes</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      lists activity codes present in the BW Namerun</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.listActivityCodes">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="listChargeComments"></a><span class="summary-sig-name">listChargeComments</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      lists charge comments present in the BW namerun</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.listChargeComments">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="mapNetworkToDescription"></a><span class="summary-sig-name">mapNetworkToDescription</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      creates relationship between network and description</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToDescription">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="mapNetworkToActivity"></a><span class="summary-sig-name">mapNetworkToActivity</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      returns a dictionary of the form {network#: [activity1, activity2, 
+      ...], ..., network#n: [activity1, activity2, ...]}</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToActivity">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapNetworkToPeriod" class="summary-sig-name">mapNetworkToPeriod</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      returns a dictionary of the form {network#1: [period1,...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToPeriod">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapNetworkTotalHoursByPeriod" class="summary-sig-name">mapNetworkTotalHoursByPeriod</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Network Total Hours = fn(network #, period)...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkTotalHoursByPeriod">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapNetworkToWeekEndDate" class="summary-sig-name">mapNetworkToWeekEndDate</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      returns a dictionary of the form {network#1: {WeekEndDate1: [],...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToWeekEndDate">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapNetworkTotalHoursByWeekEndDate" class="summary-sig-name">mapNetworkTotalHoursByWeekEndDate</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Network Total Hours = fn(network #, Weekend Date)...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkTotalHoursByWeekEndDate">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapNetworkActivityEmployeeHrsCodeWeekEndingToHours" class="summary-sig-name">mapNetworkActivityEmployeeHrsCodeWeekEndingToHours</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      builds a dictionary of the form:...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkActivityEmployeeHrsCodeWeekEndingToHours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#mapEmployeeNetworkActivityHrsCodeWeekEndingToHours" class="summary-sig-name">mapEmployeeNetworkActivityHrsCodeWeekEndingToHours</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      builds a dictionary of the form:...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapEmployeeNetworkActivityHrsCodeWeekEndingToHours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getDescriptionFromNetwork"></a><span class="summary-sig-name">getDescriptionFromNetwork</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">Network</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getDescriptionFromNetwork">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getNetworkTotalHoursByPeriod"></a><span class="summary-sig-name">getNetworkTotalHoursByPeriod</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">network_number</span>,
+        <span class="summary-sig-arg">period</span>)</span><br />
+      Return the total hours for a network number for the given accounting 
+      calendar month</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getNetworkTotalHoursByPeriod">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getNetworkTotalHoursByWeekEndDate"></a><span class="summary-sig-name">getNetworkTotalHoursByWeekEndDate</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">network_number</span>,
+        <span class="summary-sig-arg">Weekending_Date</span>)</span><br />
+      Return the total hours for a network number for the given accounting 
+      calendar month</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getNetworkTotalHoursByWeekEndDate">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getNetworkActivityEmployeeHrsCodeWeekEndingToHours"></a><span class="summary-sig-name">getNetworkActivityEmployeeHrsCodeWeekEndingToHours</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">Network</span>,
+        <span class="summary-sig-arg">Activity</span>,
+        <span class="summary-sig-arg">EmpName</span>,
+        <span class="summary-sig-arg">HrsCode</span>,
+        <span class="summary-sig-arg">WeekEnd</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getNetworkActivityEmployeeHrsCodeWeekEndingToHours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getEmployeeNetworkActivityHrsCodeWeekEndingToHours"></a><span class="summary-sig-name">getEmployeeNetworkActivityHrsCodeWeekEndingToHours</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">EmpName</span>,
+        <span class="summary-sig-arg">Network</span>,
+        <span class="summary-sig-arg">Activity</span>,
+        <span class="summary-sig-arg">HrsCode</span>,
+        <span class="summary-sig-arg">WeekEnd</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getEmployeeNetworkActivityHrsCodeWeekEndingToHours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="getStatus"></a><span class="summary-sig-name">getStatus</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">CurPeriod</span>,
+        <span class="summary-sig-arg">EndPeriod</span>)</span><br />
+      determine's a network's status</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.getStatus">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="htmlHeaderAllUp"></a><span class="summary-sig-name">htmlHeaderAllUp</span>(<span class="summary-sig-arg">self</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.htmlHeaderAllUp">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="toExcelAllUp"></a><span class="summary-sig-name">toExcelAllUp</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">fullpath</span>)</span><br />
+      writes each Namerun in xlsx format; do not use since it's too long</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.toExcelAllUp">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="toCSV"></a><span class="summary-sig-name">toCSV</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      writes each Namerun in csv format</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.toCSV">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="toCSVFile"></a><span class="summary-sig-name">toCSVFile</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">filename</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.toCSVFile">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#updateChargeComments" class="summary-sig-name">updateChargeComments</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      auto comment checks:</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.updateChargeComments">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="updateETC"></a><span class="summary-sig-name">updateETC</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      changes the value of ETC in each namerun value</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.updateETC">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="updateTotalHours"></a><span class="summary-sig-name">updateTotalHours</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      updates the values of the Total hours in each namerun value</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.updateTotalHours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="updatePercentSpent"></a><span class="summary-sig-name">updatePercentSpent</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      calculates percent spent in each of the total value</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.updatePercentSpent">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="uniqueSet"></a><span class="summary-sig-name">uniqueSet</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">listarg</span>)</span><br />
+      removes duplicate lists from a list of lists</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.uniqueSet">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="uniqueList"></a><span class="summary-sig-name">uniqueList</span>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">listarg</span>)</span><br />
+      removes duplicates from a list</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.uniqueList">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="clsBWNamerun.Nameruns-class.html#SumNamerun" class="summary-sig-name">SumNamerun</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">sap_report</span>)</span><br />
+      Method to sum up the hours if the following are the same: Charge#, Act, Desc, EmpID, Payroll Code, WeekEnd Date
+SAP Report looks like:
+               [n][0]    [n][1]  [n][2]    ...</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.SumNamerun">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="get_total_hours"></a><span class="summary-sig-name">get_total_hours</span>(<span class="summary-sig-arg">self</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.get_total_hours">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="reportSuspiciousCharging"></a><span class="summary-sig-name">reportSuspiciousCharging</span>(<span class="summary-sig-arg">self</span>)</span></td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.reportSuspiciousCharging">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__delattr__</code>,
+      <code>__format__</code>,
+      <code>__getattribute__</code>,
+      <code>__hash__</code>,
+      <code>__new__</code>,
+      <code>__reduce__</code>,
+      <code>__reduce_ex__</code>,
+      <code>__repr__</code>,
+      <code>__setattr__</code>,
+      <code>__sizeof__</code>,
+      <code>__str__</code>,
+      <code>__subclasshook__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== PROPERTIES ==================== -->
+<a name="section-Properties"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Properties</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-Properties"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__class__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== METHOD DETAILS ==================== -->
+<a name="section-MethodDetails"></a>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Method Details</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-MethodDetails"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<a name="__init__"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">__init__</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">MonthlyCalendar</span>,
+        <span class="sig-arg">WeeklyCalendar</span>,
+        <span class="sig-arg">Employees</span>,
+        <span class="sig-arg">ETC</span>)</span>
+    <br /><em class="fname">(Constructor)</em>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.__init__">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>x.__init__(...) initializes x; see help(type(x)) for signature</p>
+  <dl class="fields">
+    <dt>Overrides:
+        object.__init__
+        <dd><em class="note">(inherited documentation)</em></dd>
+    </dt>
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapNetworkToPeriod"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapNetworkToPeriod</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToPeriod">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+
+returns a dictionary of the form {network#1: [period1,
+                                              ..., 
+                                              periodn],
+                                  network#n: [period1,
+                                              ..., 
+                                              periodn]}
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapNetworkTotalHoursByPeriod"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapNetworkTotalHoursByPeriod</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkTotalHoursByPeriod">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+
+Network Total Hours = fn(network #, period)
+get period from WeeklyCalendar Class
+dictionary will come in the form: {network#1: {period1: [hrs1, hrs2],
+                                              period2: [hrs1, hrs2]},
+                                   network#2: {period1: [hrs1, hrs2],
+                                              period2: [hrs1, hrs2]},}
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapNetworkToWeekEndDate"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapNetworkToWeekEndDate</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkToWeekEndDate">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+
+returns a dictionary of the form {network#1: {WeekEndDate1: [],
+                                              ..., 
+                                              WeekEndDaten: []},
+                                              ..., 
+                                  network#n: {WeekEndDate1: [],
+                                              ..., 
+                                              WeekEndDaten: []}}
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapNetworkTotalHoursByWeekEndDate"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapNetworkTotalHoursByWeekEndDate</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkTotalHoursByWeekEndDate">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+
+Network Total Hours = fn(network #, Weekend Date)
+get period from WeeklyCalendar Class
+dictionary will come in the form: {network#1: {WeekEndDate1: [hrs1, hrs2],
+                                              WeekEndDate: [hrs1, hrs2]},
+                                   network#2: {WeekEndDate: [hrs1, hrs2],
+                                              WeekEndDate: [hrs1, hrs2]},}
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapNetworkActivityEmployeeHrsCodeWeekEndingToHours"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapNetworkActivityEmployeeHrsCodeWeekEndingToHours</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapNetworkActivityEmployeeHrsCodeWeekEndingToHours">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+builds a dictionary of the form:
+{Network1: {Activity1: {Employee1:    {Hrs_Code1:    {week1: [hrs1, hrs2],
+                                                      week2: [hrs1, hrs2],
+                                                      week3: [hrs1, hrs2],
+                                                      week4: [hrs1, hrs2]
+                                                      },
+                                       Hrs_Code2:    {week1: [hrs1, hrs2],
+                                                      week2: [hrs1, hrs2],
+                                                      week3: [hrs1, hrs2],
+                                                      week4: [hrs1, hrs2]
+                                                      }
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="mapEmployeeNetworkActivityHrsCodeWeekEndingToHours"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">mapEmployeeNetworkActivityHrsCodeWeekEndingToHours</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.mapEmployeeNetworkActivityHrsCodeWeekEndingToHours">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+builds a dictionary of the form:
+{Employee1: {Network1: {Activity1:    {Hrs_Code1:    {week1: [hrs1, hrs2],
+                                                      week2: [hrs1, hrs2],
+                                                      week3: [hrs1, hrs2],
+                                                      week4: [hrs1, hrs2]
+                                                      },
+                                       Hrs_Code2:    {week1: [hrs1, hrs2],
+                                                      week2: [hrs1, hrs2],
+                                                      week3: [hrs1, hrs2],
+                                                      week4: [hrs1, hrs2]
+                                                      }
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="updateChargeComments"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">updateChargeComments</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.updateChargeComments">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>auto comment checks:</p>
+  <ul>
+    <li>
+      closed network = mischarge
+    </li>
+    <li>
+      more than 0030 activities = needs a check of activity codes
+    </li>
+    <li>
+      if not within list of cams, check where employee should belong to
+    </li>
+  </ul>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="SumNamerun"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">SumNamerun</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">sap_report</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="clsBWNamerun-pysrc.html#Nameruns.SumNamerun">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <pre class="literalblock">
+
+Method to sum up the hours if the following are the same: Charge#, Act, Desc, EmpID, Payroll Code, WeekEnd Date
+SAP Report looks like:
+               [n][0]    [n][1]  [n][2]    ...                               [n][7]
+        [
+     0       [Charge#_1, Act_1, Desc_1, EmpID_1, Name_1, Payroll_1, Date_1, Hours_1]
+     1       [Charge#_2, Act_2, Desc_2, EmpID_2, Name_2, Payroll_2, Date_2, Hours_2]
+            .
+            .
+            .
+     n       [Charge#_n, Act_n, Desc_n, EmpID_n, Name_n, Payroll_n, Date_n, Hours_n]
+        ]
+
+</pre>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Thu Sep 06 15:30:03 2012
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>

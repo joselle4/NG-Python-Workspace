@@ -1,0 +1,111 @@
+1 network : activity : employee : hrs_code : week : [hrs]
+2 network : period : [hrs]
+3 employee : network : activity : hrs_code : week : [hrs]
+4 employee : period : [hrs]
+5 program : period : [hrs]
+	==> program : gethours(network)
+6. 
+
+###########################################################################################
+	GENERAL ARCHITECTURE (ALL-UP)
+
+	PROGRAM		NETWORK		DESCRIPTION		ACTIVITY	EMP_CAMCODE		EMPLOYEE	HRS_CODE	WEEK1	WEEK2	WEEK3	WEEK4	TOTAL	ETC		%SPENT	NETWORK_STATUS	EMPLOYEE_STATUS
+
+
+	{Network1: {Activity1: {Employee1:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 }
+										 },
+							{Employee2:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]}
+										 			 }
+										 }
+							},
+				{Activity2: {Employee1:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 }
+										 },
+							{Employee2:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]}
+										 			 }
+										 }
+							}
+				},
+	{Network2: {Activity1: {Employee1:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 }
+										 },
+							{Employee2:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]}
+										 			 }
+										 }
+							},
+				{Activity2: {Employee1:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 }
+										 },
+							{Employee2:	{Hrs_Code1:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]
+										 			 },
+										 Hrs_Code2:	{week1: [hrs1, hrs2],
+										 			 week2: [hrs1, hrs2],
+										 			 week3: [hrs1, hrs2],
+										 			 week4: [hrs1, hrs2]}
+										 			 }
+										 }
+							}
+				}
+	}
+###########################################################################################
+			 			 

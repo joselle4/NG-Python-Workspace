@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EAC/src/Mpm.py&apos; to &apos;MPM.py&apos;" description="Rename resource &apos;Mpm.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Mpm.py" name="MPM.py" stamp="1351716196310" updateReferences="true"/>
+</session>

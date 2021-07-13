@@ -1,0 +1,62 @@
+1.
+from collections import *
+
+class Odict(UserDict):
+    
+    def __setitem__(self, key, item): 
+        keyValueOrder = "Entry " + str(len(self.data) + 1)
+        self.data[(keyValueOrder, key)] = item
+    
+    def okeys(self):
+        
+        keyOrder = []
+        sortedKeys = []
+        
+        for each_key in self.data.keys():
+            try:
+                keyOrder.append(each_key[0])
+            except KeyError:
+                print("No key found")
+        
+        keyOrder.sort()
+        
+        for each_item in keyOrder:
+            for each_key in self.data.keys():
+                if each_key[0] == each_item:
+                    sortedKeys.append(each_key[1])
+        
+        return sortedKeys
+
+# there's a of ways to redesign __setitem__.  In order to put a
+# "memory", it could have been written as: self.data[keyValueOrder] = {key: item}.
+# Okeys would then have to be re-written to pull a dictionary key within a dictionary key.
+
+==============================================
+
+2.
+from collections import *
+
+class Ulist(UserList):
+
+    def __add__(self, other):
+        if isinstance(other, UserList):
+            return self.__class__(self.data + other.data)
+        elif isinstance(other, type(self.data)):
+            return self.__class__(self.data + other)
+        else:
+            return self.__class__(self.data + list(other))
+
+    def append(self, item):
+        if not item in self.data:
+            self.data.append(item)
+
+    def extend(self, other):
+        if isinstance(other, UserList):
+            for item in other.data:
+                if not item in self.data:
+                    self.data.extend(item)
+        else:
+            for item in other:
+                if not item in self.data:
+                    self.data.extend(item)
+

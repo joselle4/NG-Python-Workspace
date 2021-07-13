@@ -1,0 +1,9 @@
+10:56:43 **** Build of configuration Default for project Plot ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Program Files\Pervasive Software\PSQL\bin\;C:\OraHome_1\bin;C:\oracle\product\10.2.0\client_2\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ActivIdentity\ActivClient\;c:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Open Text\Livelink Explorer\;C:\Program Files\Hummingbird\Connectivity\7.00\Exceed;C:\Program Files\Symantec\pcAnywhere\;"C:\Program Files\Hummingbird\Connectivity\7.00\Accessories\";C:\Python27\;C:\bin\;C:\Python32\;C:\Program Files\Mercurial\;C:\Program Files\QuickTime\QTSystem\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;.;C:\Program Files\Mercurial\hg.exe;C:\Python27\python.exe;C:\Program Files\Eclipse\eclipse;]
+
+10:56:44 Build Finished (took 1s.344ms)
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="237" key="DIALOG_WIDTH"/>
+		<item value="-38" key="DIALOG_Y_ORIGIN"/>
+		<item value="1335" key="DIALOG_X_ORIGIN"/>
+		<item value="357" key="DIALOG_HEIGHT"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="newThread" key="selection"/>
+		<list key="findhistory">
+			<item value="newthread"/>
+			<item value="raw_input"/>
+			<item value="xl"/>
+			<item value="no data loaded"/>
+			<item value="getetc"/>
+			<item value="addcomment"/>
+			<item value="listconvert"/>
+			<item value="error in converting bw"/>
+		</list>
+		<list key="replacehistory">
+			<item value="dim2"/>
+			<item value="dim1"/>
+			<item value="period"/>
+			<item value="networkno"/>
+			<item value="clin"/>
+			<item value="perf"/>
+			<item value="cec"/>
+			<item value="description"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+118 0e713ae330ac2f5d50e17b8a5ff6994271edd49b 57b54b902d51e67aa2ec8c2cf211cce2b820dc38
+
+7f4ad78393620cec5884e7250acd3205af8289ea Moved all call and list functions into their respective classes
+f54baeac3c3260563ed5adca4a74cfcc45ab36a3 added methods and unit tests for mapping
+c93a84ebdd170fd0f1c05a3d8cf2265192d674bb fixed parsers
+6070f7598041e8a749a5ff8896701dfd7d29991b still need find functions for SAP Namerun and ETC data
+bc79bd9ac145cf4cad1f773820fc5b9b7b2d7cf6 reorg load methods and made them a part of its respecting class object

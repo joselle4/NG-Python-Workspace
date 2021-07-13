@@ -1,0 +1,9 @@
+
+syntax: regexp
+^src/__pycache__$
+syntax: regexp
+\.csv$
+syntax: regexp
+\.XLS$
+syntax: regexp
+^resourcesORIG/Namerun$

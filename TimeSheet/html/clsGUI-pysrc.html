@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>clsGUI</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        Module&nbsp;clsGUI
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="clsGUI-pysrc.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h1 class="epydoc">Source Code for <a href="clsGUI-module.html">Module clsGUI</a></h1>
+<pre class="py-src">
+<a name="L1"></a><tt class="py-lineno">  1</tt>  <tt class="py-line"><tt class="py-docstring">'''</tt> </tt>
+<a name="L2"></a><tt class="py-lineno">  2</tt>  <tt class="py-line"><tt class="py-docstring">Created on May 22, 2012</tt> </tt>
+<a name="L3"></a><tt class="py-lineno">  3</tt>  <tt class="py-line"><tt class="py-docstring"></tt> </tt>
+<a name="L4"></a><tt class="py-lineno">  4</tt>  <tt class="py-line"><tt class="py-docstring">@author: g73666</tt> </tt>
+<a name="L5"></a><tt class="py-lineno">  5</tt>  <tt class="py-line"><tt class="py-docstring">'''</tt> </tt>
+<a name="L6"></a><tt class="py-lineno">  6</tt>  <tt class="py-line"> </tt>
+<a name="L7"></a><tt class="py-lineno">  7</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">easygui</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">,</tt> <tt class="py-name">sys</tt><tt class="py-op">,</tt> <tt class="py-name">os</tt><tt class="py-op">,</tt> <tt class="py-name">re</tt><tt class="py-op">,</tt> <tt class="py-name">win32com</tt><tt class="py-op">.</tt><tt class="py-name">client</tt><tt class="py-op">,</tt> <tt class="py-name">csv</tt><tt class="py-op">,</tt> <tt class="py-name">shutil</tt> </tt>
+<a name="L8"></a><tt class="py-lineno">  8</tt>  <tt class="py-line"> </tt>
+<a name="App"></a><div id="App-def"><a name="L9"></a><tt class="py-lineno">  9</tt> <a class="py-toggle" href="#" id="App-toggle" onclick="return toggle('App');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.App-class.html">App</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">App</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="App-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="App-expanded"><a name="App.__init__"></a><div id="App.__init__-def"><a name="L10"></a><tt class="py-lineno"> 10</tt> <a class="py-toggle" href="#" id="App.__init__-toggle" onclick="return toggle('App.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.App-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">redirect</tt> <tt class="py-op">=</tt> <tt class="py-name">False</tt><tt class="py-op">,</tt> <tt class="py-param">filename</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">useBestVisual</tt> <tt class="py-op">=</tt> <tt class="py-name">True</tt><tt class="py-op">,</tt> <tt class="py-param">clearSigInt</tt> <tt class="py-op">=</tt> <tt class="py-name">True</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="App.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="App.__init__-expanded"><a name="L11"></a><tt class="py-lineno"> 11</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-0" class="py-name" targets="Class clsGUI.App=clsGUI.App-class.html"><a title="clsGUI.App" class="py-name" href="#" onclick="return doclink('link-0', 'App', 'link-0');">App</a></tt><tt class="py-op">.</tt><tt id="link-1" class="py-name" targets="Method clsBWNamerun.NANHW.__init__()=clsBWNamerun.NANHW-class.html#__init__,Method clsBWNamerun.Namerun.__init__()=clsBWNamerun.Namerun-class.html#__init__,Method clsBWNamerun.Nameruns.__init__()=clsBWNamerun.Nameruns-class.html#__init__,Method clsCAM.CAM.__init__()=clsCAM.CAM-class.html#__init__,Method clsCAM.CAMs.__init__()=clsCAM.CAMs-class.html#__init__,Method clsContract.Contract.__init__()=clsContract.Contract-class.html#__init__,Method clsContract.Contracts.__init__()=clsContract.Contracts-class.html#__init__,Method clsETC.ETC.__init__()=clsETC.ETC-class.html#__init__,Method clsETC.ETCEntry.__init__()=clsETC.ETCEntry-class.html#__init__,Method clsEmployee.Employee.__init__()=clsEmployee.Employee-class.html#__init__,Method clsEmployee.Employees.__init__()=clsEmployee.Employees-class.html#__init__,Method clsExcel.Excel.__init__()=clsExcel.Excel-class.html#__init__,Method clsGUI.App.__init__()=clsGUI.App-class.html#__init__,Method clsGUI.ComboBox.__init__()=clsGUI.ComboBox-class.html#__init__,Method clsGUI.MsgDialog.__init__()=clsGUI.MsgDialog-class.html#__init__,Method clsGUI.MultiChoiceDialog.__init__()=clsGUI.MultiChoiceDialog-class.html#__init__,Method clsGUI.MultiChoiceDialogSub.__init__()=clsGUI.MultiChoiceDialogSub-class.html#__init__,Method clsGUI.TextFrame.__init__()=clsGUI.TextFrame-class.html#__init__,Method clsMonthlyCalendar.MonthlyCalendar.__init__()=clsMonthlyCalendar.MonthlyCalendar-class.html#__init__,Method clsMonthlyCalendar.MonthlyCalendarEntry.__init__()=clsMonthlyCalendar.MonthlyCalendarEntry-class.html#__init__,Method clsNetwork.Network.__init__()=clsNetwork.Network-class.html#__init__,Method clsNetwork.Networks.__init__()=clsNetwork.Networks-class.html#__init__,Method clsReloadResources.ReloadResources.__init__()=clsReloadResources.ReloadResources-class.html#__init__,Method clsWeeklyCalendar.WeeklyCalendar.__init__()=clsWeeklyCalendar.WeeklyCalendar-class.html#__init__,Method clsWeeklyCalendar.WeeklyCalendarEntry.__init__()=clsWeeklyCalendar.WeeklyCalendarEntry-class.html#__init__,Method driver.DriverApp.__init__()=driver.DriverApp-class.html#__init__,Method driver.MainFrame.__init__()=driver.MainFrame-class.html#__init__,Method driver.SubFrame.__init__()=driver.SubFrame-class.html#__init__,Method driver.Threading.__init__()=driver.Threading-class.html#__init__"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-1', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">redirect</tt><tt class="py-op">,</tt> <tt class="py-name">filename</tt><tt class="py-op">,</tt> <tt class="py-name">useBestVisual</tt><tt class="py-op">,</tt> <tt class="py-name">clearSigInt</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L12"></a><tt class="py-lineno"> 12</tt>  <tt class="py-line"> </tt>
+<a name="ComboBox"></a><div id="ComboBox-def"><a name="L13"></a><tt class="py-lineno"> 13</tt> <a class="py-toggle" href="#" id="ComboBox-toggle" onclick="return toggle('ComboBox');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html">ComboBox</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">Panel</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="ComboBox-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="ComboBox-expanded"><a name="L14"></a><tt class="py-lineno"> 14</tt>  <tt class="py-line">    <tt class="py-docstring">''' this is a dynamic combo box panel that allows for a variable size, entries, and combo boxes </tt> </tt>
+<a name="L15"></a><tt class="py-lineno"> 15</tt>  <tt class="py-line"><tt class="py-docstring">        PARAMETERS:</tt> </tt>
+<a name="L16"></a><tt class="py-lineno"> 16</tt>  <tt class="py-line"><tt class="py-docstring">            parent</tt> </tt>
+<a name="L17"></a><tt class="py-lineno"> 17</tt>  <tt class="py-line"><tt class="py-docstring">            static text</tt> </tt>
+<a name="L18"></a><tt class="py-lineno"> 18</tt>  <tt class="py-line"><tt class="py-docstring">            list for combo box</tt> </tt>
+<a name="L19"></a><tt class="py-lineno"> 19</tt>  <tt class="py-line"><tt class="py-docstring">            increment for distance between combo boxes</tt> </tt>
+<a name="L20"></a><tt class="py-lineno"> 20</tt>  <tt class="py-line"><tt class="py-docstring">            handler ==&gt; WE WANT THE EVENT HANDLER TO BE CONTROLLED FROM</tt> </tt>
+<a name="L21"></a><tt class="py-lineno"> 21</tt>  <tt class="py-line"><tt class="py-docstring">                        THE DRIVER MODULE SO THIS CLASS CAN REMAIN INDEPENDENT.</tt> </tt>
+<a name="L22"></a><tt class="py-lineno"> 22</tt>  <tt class="py-line"><tt class="py-docstring">                        WE CAN'T JUST USE A SIMPLE RETURN FUNCTION HERE BECAUSE</tt> </tt>
+<a name="L23"></a><tt class="py-lineno"> 23</tt>  <tt class="py-line"><tt class="py-docstring">                        OF THE POSSIBILITY OF MULTIPLE VARIABLES</tt> </tt>
+<a name="L24"></a><tt class="py-lineno"> 24</tt>  <tt class="py-line"><tt class="py-docstring">            '''</tt> </tt>
+<a name="L25"></a><tt class="py-lineno"> 25</tt>  <tt class="py-line">     </tt>
+<a name="ComboBox.__init__"></a><div id="ComboBox.__init__-def"><a name="L26"></a><tt class="py-lineno"> 26</tt> <a class="py-toggle" href="#" id="ComboBox.__init__-toggle" onclick="return toggle('ComboBox.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">parent</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="ComboBox.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="ComboBox.__init__-expanded"><a name="L27"></a><tt class="py-lineno"> 27</tt>  <tt class="py-line">         </tt>
+<a name="L28"></a><tt class="py-lineno"> 28</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_ANY</tt> </tt>
+<a name="L29"></a><tt class="py-lineno"> 29</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Panel</tt><tt class="py-op">.</tt><tt id="link-2" class="py-name"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-2', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">parent</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L30"></a><tt class="py-lineno"> 30</tt>  <tt class="py-line">     </tt>
+<a name="ComboBox.comboBox"></a><div id="ComboBox.comboBox-def"><a name="L31"></a><tt class="py-lineno"> 31</tt> <a class="py-toggle" href="#" id="ComboBox.comboBox-toggle" onclick="return toggle('ComboBox.comboBox');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html#comboBox">comboBox</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">selection1</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">,</tt> <tt class="py-param">defaultValue1</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">handler1</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">position</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">0</tt><tt class="py-op">)</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="ComboBox.comboBox-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="ComboBox.comboBox-expanded"><a name="L32"></a><tt class="py-lineno"> 32</tt>  <tt class="py-line">        <tt class="py-comment">#1st combo box</tt> </tt>
+<a name="L33"></a><tt class="py-lineno"> 33</tt>  <tt class="py-line">        <tt class="py-name">cb1</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-3" class="py-name" targets="Class clsGUI.ComboBox=clsGUI.ComboBox-class.html"><a title="clsGUI.ComboBox" class="py-name" href="#" onclick="return doclink('link-3', 'ComboBox', 'link-3');">ComboBox</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">defaultValue1</tt><tt class="py-op">,</tt> <tt class="py-name">position</tt><tt class="py-op">,</tt> <tt class="py-name">choices</tt> <tt class="py-op">=</tt> <tt class="py-name">selection1</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">CB_DROPDOWN</tt><tt class="py-op">)</tt> <tt class="py-comment">#| wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)</tt> </tt>
+<a name="L34"></a><tt class="py-lineno"> 34</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_TEXT</tt><tt class="py-op">,</tt> <tt class="py-name">handler1</tt><tt class="py-op">,</tt> <tt class="py-name">cb1</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L35"></a><tt class="py-lineno"> 35</tt>  <tt class="py-line">             </tt>
+<a name="ComboBox.combo2Boxes"></a><div id="ComboBox.combo2Boxes-def"><a name="L36"></a><tt class="py-lineno"> 36</tt> <a class="py-toggle" href="#" id="ComboBox.combo2Boxes-toggle" onclick="return toggle('ComboBox.combo2Boxes');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html#combo2Boxes">combo2Boxes</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">selection1</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">,</tt> <tt class="py-param">defaultValue1</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">handler1</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">selection2</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">,</tt> <tt class="py-param">defaultValue2</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">handler2</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">increment</tt> <tt class="py-op">=</tt> <tt class="py-number">0.0</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="ComboBox.combo2Boxes-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="ComboBox.combo2Boxes-expanded"><a name="L37"></a><tt class="py-lineno"> 37</tt>  <tt class="py-line">        <tt class="py-comment">#1st combo box</tt> </tt>
+<a name="L38"></a><tt class="py-lineno"> 38</tt>  <tt class="py-line">        <tt class="py-name">position</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">20</tt><tt class="py-op">,</tt> <tt class="py-name">increment</tt><tt class="py-op">)</tt> </tt>
+<a name="L39"></a><tt class="py-lineno"> 39</tt>  <tt class="py-line">        <tt class="py-name">cb1</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-4" class="py-name"><a title="clsGUI.ComboBox" class="py-name" href="#" onclick="return doclink('link-4', 'ComboBox', 'link-3');">ComboBox</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">defaultValue1</tt><tt class="py-op">,</tt> <tt class="py-name">position</tt><tt class="py-op">,</tt> <tt class="py-name">choices</tt> <tt class="py-op">=</tt> <tt class="py-name">selection1</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">CB_DROPDOWN</tt><tt class="py-op">)</tt> <tt class="py-comment">#| wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)</tt> </tt>
+<a name="L40"></a><tt class="py-lineno"> 40</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_TEXT</tt><tt class="py-op">,</tt> <tt class="py-name">handler1</tt><tt class="py-op">,</tt> <tt class="py-name">cb1</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+<a name="L41"></a><tt class="py-lineno"> 41</tt>  <tt class="py-line">         </tt>
+<a name="L42"></a><tt class="py-lineno"> 42</tt>  <tt class="py-line">        <tt class="py-comment">#2nd combo box</tt> </tt>
+<a name="L43"></a><tt class="py-lineno"> 43</tt>  <tt class="py-line">        <tt class="py-name">position</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">100</tt><tt class="py-op">,</tt> <tt class="py-name">increment</tt><tt class="py-op">)</tt> </tt>
+<a name="L44"></a><tt class="py-lineno"> 44</tt>  <tt class="py-line">        <tt class="py-name">cb2</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-5" class="py-name"><a title="clsGUI.ComboBox" class="py-name" href="#" onclick="return doclink('link-5', 'ComboBox', 'link-3');">ComboBox</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">defaultValue2</tt><tt class="py-op">,</tt> <tt class="py-name">position</tt><tt class="py-op">,</tt> <tt class="py-name">choices</tt> <tt class="py-op">=</tt> <tt class="py-name">selection2</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">CB_DROPDOWN</tt><tt class="py-op">)</tt> <tt class="py-comment">#| wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)</tt> </tt>
+<a name="L45"></a><tt class="py-lineno"> 45</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_TEXT</tt><tt class="py-op">,</tt> <tt class="py-name">handler1</tt><tt class="py-op">,</tt> <tt class="py-name">cb2</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt>         </tt>
+</div><a name="L46"></a><tt class="py-lineno"> 46</tt>  <tt class="py-line">     </tt>
+<a name="ComboBox.comboTextAndBox"></a><div id="ComboBox.comboTextAndBox-def"><a name="L47"></a><tt class="py-lineno"> 47</tt> <a class="py-toggle" href="#" id="ComboBox.comboTextAndBox-toggle" onclick="return toggle('ComboBox.comboTextAndBox');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html#comboTextAndBox">comboTextAndBox</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">text</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">selection</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">,</tt> <tt class="py-param">defaultValue</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">increment</tt> <tt class="py-op">=</tt> <tt class="py-number">0.0</tt><tt class="py-op">,</tt> <tt class="py-param">handler</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="ComboBox.comboTextAndBox-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="ComboBox.comboTextAndBox-expanded"><a name="L48"></a><tt class="py-lineno"> 48</tt>  <tt class="py-line">         </tt>
+<a name="L49"></a><tt class="py-lineno"> 49</tt>  <tt class="py-line">        <tt class="py-name">position</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">100</tt><tt class="py-op">,</tt> <tt class="py-name">increment</tt><tt class="py-op">)</tt> </tt>
+<a name="L50"></a><tt class="py-lineno"> 50</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">staticText</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">StaticText</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">text</tt><tt class="py-op">,</tt> <tt class="py-name">position</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ALIGN_RIGHT</tt><tt class="py-op">)</tt> </tt>
+<a name="L51"></a><tt class="py-lineno"> 51</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">staticText</tt><tt class="py-op">.</tt><tt class="py-name">SetForegroundColour</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">WHITE</tt><tt class="py-op">)</tt> </tt>
+<a name="L52"></a><tt class="py-lineno"> 52</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">staticText</tt><tt class="py-op">.</tt><tt class="py-name">SetFont</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-6" class="py-name" targets="Method clsGUI.ComboBox.boldFont()=clsGUI.ComboBox-class.html#boldFont,Method clsGUI.TextFrame.boldFont()=clsGUI.TextFrame-class.html#boldFont,Method driver.MainFrame.boldFont()=driver.MainFrame-class.html#boldFont,Method driver.SubFrame.boldFont()=driver.SubFrame-class.html#boldFont"><a title="clsGUI.ComboBox.boldFont
+clsGUI.TextFrame.boldFont
+driver.MainFrame.boldFont
+driver.SubFrame.boldFont" class="py-name" href="#" onclick="return doclink('link-6', 'boldFont', 'link-6');">boldFont</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L53"></a><tt class="py-lineno"> 53</tt>  <tt class="py-line">         </tt>
+<a name="L54"></a><tt class="py-lineno"> 54</tt>  <tt class="py-line">        <tt class="py-name">position</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">20</tt><tt class="py-op">,</tt> <tt class="py-name">increment</tt><tt class="py-op">)</tt> </tt>
+<a name="L55"></a><tt class="py-lineno"> 55</tt>  <tt class="py-line">        <tt class="py-name">cb</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-7" class="py-name"><a title="clsGUI.ComboBox" class="py-name" href="#" onclick="return doclink('link-7', 'ComboBox', 'link-3');">ComboBox</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">defaultValue</tt><tt class="py-op">,</tt> <tt class="py-name">position</tt><tt class="py-op">,</tt> <tt class="py-name">choices</tt> <tt class="py-op">=</tt> <tt class="py-name">selection</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">CB_DROPDOWN</tt><tt class="py-op">)</tt> <tt class="py-comment">#| wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)</tt> </tt>
+<a name="L56"></a><tt class="py-lineno"> 56</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_TEXT</tt><tt class="py-op">,</tt> <tt class="py-name">handler</tt><tt class="py-op">,</tt> <tt class="py-name">cb</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+<a name="L57"></a><tt class="py-lineno"> 57</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_TEXT</tt><tt class="py-op">,</tt> <tt class="py-name">handler</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">staticText</tt><tt class="py-op">,</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L58"></a><tt class="py-lineno"> 58</tt>  <tt class="py-line"> </tt>
+<a name="ComboBox.boldFont"></a><div id="ComboBox.boldFont-def"><a name="L59"></a><tt class="py-lineno"> 59</tt> <a class="py-toggle" href="#" id="ComboBox.boldFont-toggle" onclick="return toggle('ComboBox.boldFont');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.ComboBox-class.html#boldFont">boldFont</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> <tt class="py-keyword">return</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Font</tt><tt class="py-op">(</tt><tt class="py-number">8</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">DEFAULT</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">NORMAL</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">BOLD</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L60"></a><tt class="py-lineno"> 60</tt>  <tt class="py-line">     </tt>
+<a name="MultiChoiceDialog"></a><div id="MultiChoiceDialog-def"><a name="L61"></a><tt class="py-lineno"> 61</tt> <a class="py-toggle" href="#" id="MultiChoiceDialog-toggle" onclick="return toggle('MultiChoiceDialog');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialog-class.html">MultiChoiceDialog</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">MultiChoiceDialog</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialog-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="MultiChoiceDialog-expanded"><a name="L62"></a><tt class="py-lineno"> 62</tt>  <tt class="py-line">     </tt>
+<a name="MultiChoiceDialog.__init__"></a><div id="MultiChoiceDialog.__init__-def"><a name="L63"></a><tt class="py-lineno"> 63</tt> <a class="py-toggle" href="#" id="MultiChoiceDialog.__init__-toggle" onclick="return toggle('MultiChoiceDialog.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialog-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">parent</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">msg</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">title</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">listArg</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialog.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MultiChoiceDialog.__init__-expanded"><a name="L64"></a><tt class="py-lineno"> 64</tt>  <tt class="py-line">        <tt class="py-docstring">""" constructs multichoice dialog box with parameters: parent, msg, title, and list of choices """</tt> </tt>
+<a name="L65"></a><tt class="py-lineno"> 65</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-8" class="py-name" targets="Class clsGUI.MultiChoiceDialog=clsGUI.MultiChoiceDialog-class.html"><a title="clsGUI.MultiChoiceDialog" class="py-name" href="#" onclick="return doclink('link-8', 'MultiChoiceDialog', 'link-8');">MultiChoiceDialog</a></tt><tt class="py-op">.</tt><tt id="link-9" class="py-name"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-9', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">parent</tt><tt class="py-op">,</tt> <tt id="link-10" class="py-name" targets="Method clsGUI.MsgDialog.msg()=clsGUI.MsgDialog-class.html#msg"><a title="clsGUI.MsgDialog.msg" class="py-name" href="#" onclick="return doclink('link-10', 'msg', 'link-10');">msg</a></tt><tt class="py-op">,</tt> <tt class="py-name">title</tt><tt class="py-op">,</tt> <tt class="py-name">listArg</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L66"></a><tt class="py-lineno"> 66</tt>  <tt class="py-line">     </tt>
+<a name="MultiChoiceDialog.select"></a><div id="MultiChoiceDialog.select-def"><a name="L67"></a><tt class="py-lineno"> 67</tt> <a class="py-toggle" href="#" id="MultiChoiceDialog.select-toggle" onclick="return toggle('MultiChoiceDialog.select');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialog-class.html#select">select</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">listArg</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialog.select-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MultiChoiceDialog.select-expanded"><a name="L68"></a><tt class="py-lineno"> 68</tt>  <tt class="py-line">        <tt class="py-docstring">''' returns a list of choices or exits program'''</tt> </tt>
+<a name="L69"></a><tt class="py-lineno"> 69</tt>  <tt class="py-line">        <tt class="py-keyword">if</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">ShowModal</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> <tt class="py-op">==</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_OK</tt><tt class="py-op">:</tt> </tt>
+<a name="L70"></a><tt class="py-lineno"> 70</tt>  <tt class="py-line">            <tt class="py-name">selections</tt> <tt class="py-op">=</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">GetSelections</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L71"></a><tt class="py-lineno"> 71</tt>  <tt class="py-line">            <tt class="py-name">strings</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-name">listArg</tt><tt class="py-op">[</tt><tt class="py-name">x</tt><tt class="py-op">]</tt> <tt class="py-keyword">for</tt> <tt class="py-name">x</tt> <tt class="py-keyword">in</tt> <tt class="py-name">selections</tt><tt class="py-op">]</tt> </tt>
+<a name="L72"></a><tt class="py-lineno"> 72</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L73"></a><tt class="py-lineno"> 73</tt>  <tt class="py-line">            <tt class="py-keyword">return</tt> <tt class="py-name">strings</tt> </tt>
+<a name="L74"></a><tt class="py-lineno"> 74</tt>  <tt class="py-line">        <tt class="py-keyword">else</tt><tt class="py-op">:</tt> </tt>
+<a name="L75"></a><tt class="py-lineno"> 75</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L76"></a><tt class="py-lineno"> 76</tt>  <tt class="py-line"><tt class="py-comment">#            sys.exit(0)</tt> </tt>
+<a name="L77"></a><tt class="py-lineno"> 77</tt>  <tt class="py-line"> </tt>
+<a name="MultiChoiceDialogSub"></a><div id="MultiChoiceDialogSub-def"><a name="L78"></a><tt class="py-lineno"> 78</tt> <a class="py-toggle" href="#" id="MultiChoiceDialogSub-toggle" onclick="return toggle('MultiChoiceDialogSub');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialogSub-class.html">MultiChoiceDialogSub</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">MultiChoiceDialog</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialogSub-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="MultiChoiceDialogSub-expanded"><a name="L79"></a><tt class="py-lineno"> 79</tt>  <tt class="py-line">    <tt class="py-docstring">""" same functionality as the first multichoicedialog but does not exit program upon quitting """</tt> </tt>
+<a name="MultiChoiceDialogSub.__init__"></a><div id="MultiChoiceDialogSub.__init__-def"><a name="L80"></a><tt class="py-lineno"> 80</tt> <a class="py-toggle" href="#" id="MultiChoiceDialogSub.__init__-toggle" onclick="return toggle('MultiChoiceDialogSub.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialogSub-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">parent</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">msg</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">title</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">listArg</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialogSub.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MultiChoiceDialogSub.__init__-expanded"><a name="L81"></a><tt class="py-lineno"> 81</tt>  <tt class="py-line">        <tt class="py-docstring">""" constructs multichoice dialog box with parameters: parent, msg, title, and list of choices """</tt> </tt>
+<a name="L82"></a><tt class="py-lineno"> 82</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt id="link-11" class="py-name"><a title="clsGUI.MultiChoiceDialog" class="py-name" href="#" onclick="return doclink('link-11', 'MultiChoiceDialog', 'link-8');">MultiChoiceDialog</a></tt><tt class="py-op">.</tt><tt id="link-12" class="py-name"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-12', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">parent</tt><tt class="py-op">,</tt> <tt id="link-13" class="py-name"><a title="clsGUI.MsgDialog.msg" class="py-name" href="#" onclick="return doclink('link-13', 'msg', 'link-10');">msg</a></tt><tt class="py-op">,</tt> <tt class="py-name">title</tt><tt class="py-op">,</tt> <tt class="py-name">listArg</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L83"></a><tt class="py-lineno"> 83</tt>  <tt class="py-line">     </tt>
+<a name="MultiChoiceDialogSub.select"></a><div id="MultiChoiceDialogSub.select-def"><a name="L84"></a><tt class="py-lineno"> 84</tt> <a class="py-toggle" href="#" id="MultiChoiceDialogSub.select-toggle" onclick="return toggle('MultiChoiceDialogSub.select');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MultiChoiceDialogSub-class.html#select">select</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">listArg</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-op">]</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MultiChoiceDialogSub.select-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MultiChoiceDialogSub.select-expanded"><a name="L85"></a><tt class="py-lineno"> 85</tt>  <tt class="py-line">        <tt class="py-docstring">''' returns a list of choices or exits program'''</tt> </tt>
+<a name="L86"></a><tt class="py-lineno"> 86</tt>  <tt class="py-line">        <tt class="py-keyword">if</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">ShowModal</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> <tt class="py-op">==</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_OK</tt><tt class="py-op">:</tt> </tt>
+<a name="L87"></a><tt class="py-lineno"> 87</tt>  <tt class="py-line">            <tt class="py-name">selections</tt> <tt class="py-op">=</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">GetSelections</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L88"></a><tt class="py-lineno"> 88</tt>  <tt class="py-line">            <tt class="py-name">strings</tt> <tt class="py-op">=</tt> <tt class="py-op">[</tt><tt class="py-name">listArg</tt><tt class="py-op">[</tt><tt class="py-name">x</tt><tt class="py-op">]</tt> <tt class="py-keyword">for</tt> <tt class="py-name">x</tt> <tt class="py-keyword">in</tt> <tt class="py-name">selections</tt><tt class="py-op">]</tt> </tt>
+<a name="L89"></a><tt class="py-lineno"> 89</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L90"></a><tt class="py-lineno"> 90</tt>  <tt class="py-line">            <tt class="py-keyword">return</tt> <tt class="py-name">strings</tt> </tt>
+<a name="L91"></a><tt class="py-lineno"> 91</tt>  <tt class="py-line">        <tt class="py-keyword">else</tt><tt class="py-op">:</tt> </tt>
+<a name="L92"></a><tt class="py-lineno"> 92</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L93"></a><tt class="py-lineno"> 93</tt>  <tt class="py-line"><tt class="py-comment">#            sys.exit(0)</tt> </tt>
+<a name="L94"></a><tt class="py-lineno"> 94</tt>  <tt class="py-line"> </tt>
+<a name="MsgDialog"></a><div id="MsgDialog-def"><a name="L95"></a><tt class="py-lineno"> 95</tt> <a class="py-toggle" href="#" id="MsgDialog-toggle" onclick="return toggle('MsgDialog');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.MsgDialog-class.html">MsgDialog</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">MessageDialog</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MsgDialog-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="MsgDialog-expanded"><a name="MsgDialog.__init__"></a><div id="MsgDialog.__init__-def"><a name="L96"></a><tt class="py-lineno"> 96</tt> <a class="py-toggle" href="#" id="MsgDialog.__init__-toggle" onclick="return toggle('MsgDialog.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MsgDialog-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">parent</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">msg</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">caption</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">YES_NO</tt> <tt class="py-op">|</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">NO_DEFAULT</tt> <tt class="py-op">|</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">CANCEL</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MsgDialog.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MsgDialog.__init__-expanded"><a name="L97"></a><tt class="py-lineno"> 97</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">MessageDialog</tt><tt class="py-op">.</tt><tt id="link-14" class="py-name"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-14', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">parent</tt><tt class="py-op">,</tt> <tt id="link-15" class="py-name"><a title="clsGUI.MsgDialog.msg" class="py-name" href="#" onclick="return doclink('link-15', 'msg', 'link-10');">msg</a></tt><tt class="py-op">,</tt> <tt class="py-name">caption</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt><tt class="py-op">)</tt> </tt>
+<a name="L98"></a><tt class="py-lineno"> 98</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">SetTitle</tt><tt class="py-op">(</tt><tt class="py-name">caption</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L99"></a><tt class="py-lineno"> 99</tt>  <tt class="py-line">     </tt>
+<a name="MsgDialog.yesNoSelect"></a><div id="MsgDialog.yesNoSelect-def"><a name="L100"></a><tt class="py-lineno">100</tt> <a class="py-toggle" href="#" id="MsgDialog.yesNoSelect-toggle" onclick="return toggle('MsgDialog.yesNoSelect');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MsgDialog-class.html#yesNoSelect">yesNoSelect</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MsgDialog.yesNoSelect-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MsgDialog.yesNoSelect-expanded"><a name="L101"></a><tt class="py-lineno">101</tt>  <tt class="py-line">        <tt class="py-name">result</tt> <tt class="py-op">=</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">ShowModal</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L102"></a><tt class="py-lineno">102</tt>  <tt class="py-line">        <tt class="py-keyword">if</tt> <tt class="py-name">result</tt> <tt class="py-op">==</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_YES</tt><tt class="py-op">:</tt> </tt>
+<a name="L103"></a><tt class="py-lineno">103</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L104"></a><tt class="py-lineno">104</tt>  <tt class="py-line">            <tt class="py-keyword">return</tt> <tt class="py-number">1</tt> </tt>
+<a name="L105"></a><tt class="py-lineno">105</tt>  <tt class="py-line">        <tt class="py-keyword">elif</tt> <tt class="py-name">result</tt> <tt class="py-op">==</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_NO</tt><tt class="py-op">:</tt> </tt>
+<a name="L106"></a><tt class="py-lineno">106</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L107"></a><tt class="py-lineno">107</tt>  <tt class="py-line">            <tt class="py-keyword">return</tt> <tt class="py-number">0</tt> </tt>
+<a name="L108"></a><tt class="py-lineno">108</tt>  <tt class="py-line">        <tt class="py-keyword">else</tt><tt class="py-op">:</tt> </tt>
+<a name="L109"></a><tt class="py-lineno">109</tt>  <tt class="py-line">            <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L110"></a><tt class="py-lineno">110</tt>  <tt class="py-line">            <tt class="py-name">sys</tt><tt class="py-op">.</tt><tt class="py-name">exit</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L111"></a><tt class="py-lineno">111</tt>  <tt class="py-line">     </tt>
+<a name="MsgDialog.msg"></a><div id="MsgDialog.msg-def"><a name="L112"></a><tt class="py-lineno">112</tt> <a class="py-toggle" href="#" id="MsgDialog.msg-toggle" onclick="return toggle('MsgDialog.msg');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.MsgDialog-class.html#msg">msg</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="MsgDialog.msg-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="MsgDialog.msg-expanded"><a name="L113"></a><tt class="py-lineno">113</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">ShowModal</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L114"></a><tt class="py-lineno">114</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L115"></a><tt class="py-lineno">115</tt>  <tt class="py-line"> </tt>
+<a name="TextFrame"></a><div id="TextFrame-def"><a name="L116"></a><tt class="py-lineno">116</tt> <a class="py-toggle" href="#" id="TextFrame-toggle" onclick="return toggle('TextFrame');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="clsGUI.TextFrame-class.html">TextFrame</a><tt class="py-op">(</tt><tt class="py-base-class">wx</tt><tt class="py-op">.</tt><tt class="py-base-class">Frame</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="TextFrame-collapsed" style="display:none;" pad="+++" indent="++++"></div><div id="TextFrame-expanded"><a name="TextFrame.__init__"></a><div id="TextFrame.__init__-def"><a name="L117"></a><tt class="py-lineno">117</tt> <a class="py-toggle" href="#" id="TextFrame.__init__-toggle" onclick="return toggle('TextFrame.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.TextFrame-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">parent</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">,</tt> <tt class="py-param">title</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">msg</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">content</tt> <tt class="py-op">=</tt> <tt class="py-string">""</tt><tt class="py-op">,</tt> <tt class="py-param">handler</tt> <tt class="py-op">=</tt> <tt class="py-name">None</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="TextFrame.__init__-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="TextFrame.__init__-expanded"><a name="L118"></a><tt class="py-lineno">118</tt>  <tt class="py-line">        <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Frame</tt><tt class="py-op">.</tt><tt id="link-16" class="py-name"><a title="clsBWNamerun.NANHW.__init__
+clsBWNamerun.Namerun.__init__
+clsBWNamerun.Nameruns.__init__
+clsCAM.CAM.__init__
+clsCAM.CAMs.__init__
+clsContract.Contract.__init__
+clsContract.Contracts.__init__
+clsETC.ETC.__init__
+clsETC.ETCEntry.__init__
+clsEmployee.Employee.__init__
+clsEmployee.Employees.__init__
+clsExcel.Excel.__init__
+clsGUI.App.__init__
+clsGUI.ComboBox.__init__
+clsGUI.MsgDialog.__init__
+clsGUI.MultiChoiceDialog.__init__
+clsGUI.MultiChoiceDialogSub.__init__
+clsGUI.TextFrame.__init__
+clsMonthlyCalendar.MonthlyCalendar.__init__
+clsMonthlyCalendar.MonthlyCalendarEntry.__init__
+clsNetwork.Network.__init__
+clsNetwork.Networks.__init__
+clsReloadResources.ReloadResources.__init__
+clsWeeklyCalendar.WeeklyCalendar.__init__
+clsWeeklyCalendar.WeeklyCalendarEntry.__init__
+driver.DriverApp.__init__
+driver.MainFrame.__init__
+driver.SubFrame.__init__
+driver.Threading.__init__" class="py-name" href="#" onclick="return doclink('link-16', '__init__', 'link-1');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">parent</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_ANY</tt><tt class="py-op">,</tt> <tt class="py-name">title</tt><tt class="py-op">)</tt> </tt>
+<a name="L119"></a><tt class="py-lineno">119</tt>  <tt class="py-line">         </tt>
+<a name="L120"></a><tt class="py-lineno">120</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">SetTitle</tt><tt class="py-op">(</tt><tt class="py-name">title</tt><tt class="py-op">)</tt> </tt>
+<a name="L121"></a><tt class="py-lineno">121</tt>  <tt class="py-line">        <tt class="py-name">id</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">ID_ANY</tt> </tt>
+<a name="L122"></a><tt class="py-lineno">122</tt>  <tt class="py-line">        <tt class="py-name">panel</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Panel</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">,</tt> <tt class="py-name">id</tt><tt class="py-op">)</tt> </tt>
+<a name="L123"></a><tt class="py-lineno">123</tt>  <tt class="py-line">        <tt class="py-name">multiLabel</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">StaticText</tt><tt class="py-op">(</tt><tt class="py-name">panel</tt><tt class="py-op">,</tt> <tt class="py-name">id</tt><tt class="py-op">,</tt> <tt id="link-17" class="py-name"><a title="clsGUI.MsgDialog.msg" class="py-name" href="#" onclick="return doclink('link-17', 'msg', 'link-10');">msg</a></tt><tt class="py-op">,</tt> <tt class="py-name">pos</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Point</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">0</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L124"></a><tt class="py-lineno">124</tt>  <tt class="py-line">        <tt class="py-name">multiLabel</tt><tt class="py-op">.</tt><tt class="py-name">SetFont</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-18" class="py-name"><a title="clsGUI.ComboBox.boldFont
+clsGUI.TextFrame.boldFont
+driver.MainFrame.boldFont
+driver.SubFrame.boldFont" class="py-name" href="#" onclick="return doclink('link-18', 'boldFont', 'link-6');">boldFont</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L125"></a><tt class="py-lineno">125</tt>  <tt class="py-line">        <tt class="py-name">multiText</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">TextCtrl</tt><tt class="py-op">(</tt><tt class="py-name">panel</tt><tt class="py-op">,</tt> <tt class="py-name">id</tt><tt class="py-op">,</tt> <tt class="py-name">content</tt><tt class="py-op">,</tt> <tt class="py-name">pos</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Point</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">250</tt><tt class="py-op">)</tt><tt class="py-op">,</tt> <tt class="py-name">size</tt> <tt class="py-op">=</tt> <tt class="py-op">(</tt><tt class="py-number">380</tt><tt class="py-op">,</tt> <tt class="py-number">100</tt><tt class="py-op">)</tt><tt class="py-op">,</tt> <tt class="py-name">style</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">TE_MULTILINE</tt><tt class="py-op">|</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">TE_PROCESS_ENTER</tt><tt class="py-op">)</tt> </tt>
+<a name="L126"></a><tt class="py-lineno">126</tt>  <tt class="py-line">        <tt class="py-name">multiText</tt><tt class="py-op">.</tt><tt class="py-name">SetInsertionPoint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">)</tt> </tt>
+<a name="L127"></a><tt class="py-lineno">127</tt>  <tt class="py-line">         </tt>
+<a name="L128"></a><tt class="py-lineno">128</tt>  <tt class="py-line">        <tt class="py-name">button</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Button</tt><tt class="py-op">(</tt><tt class="py-name">panel</tt><tt class="py-op">,</tt> <tt class="py-number">10</tt><tt class="py-op">,</tt> <tt class="py-string">"Continue"</tt><tt class="py-op">,</tt> <tt class="py-name">pos</tt> <tt class="py-op">=</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Point</tt><tt class="py-op">(</tt><tt class="py-number">150</tt><tt class="py-op">,</tt><tt class="py-number">370</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L129"></a><tt class="py-lineno">129</tt>  <tt class="py-line">        <tt class="py-comment">#self.Bind(wx.EVT_BUTTON, self.onContinue, button)</tt> </tt>
+<a name="L130"></a><tt class="py-lineno">130</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Bind</tt><tt class="py-op">(</tt><tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">EVT_BUTTON</tt><tt class="py-op">,</tt> <tt class="py-name">handler</tt><tt class="py-op">,</tt> <tt class="py-name">button</tt><tt class="py-op">)</tt> </tt>
+<a name="L131"></a><tt class="py-lineno">131</tt>  <tt class="py-line">        <tt class="py-name">button</tt><tt class="py-op">.</tt><tt class="py-name">SetDefault</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L132"></a><tt class="py-lineno">132</tt>  <tt class="py-line">        <tt class="py-name">button</tt><tt class="py-op">.</tt><tt class="py-name">SetSize</tt><tt class="py-op">(</tt><tt class="py-name">button</tt><tt class="py-op">.</tt><tt class="py-name">GetBestSize</tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L133"></a><tt class="py-lineno">133</tt>  <tt class="py-line">         </tt>
+<a name="L134"></a><tt class="py-lineno">134</tt>  <tt class="py-line">        <tt class="py-comment">#sizer = wx.FlexGridSizer(cols = 1, rows = 10, hgap = 6, vgap = 6)</tt> </tt>
+<a name="L135"></a><tt class="py-lineno">135</tt>  <tt class="py-line">        <tt class="py-comment">#sizer.AddMany([(multiLabel, wx.EXPAND | wx.ALIGN_CENTER), </tt> </tt>
+<a name="L136"></a><tt class="py-lineno">136</tt>  <tt class="py-line">        <tt class="py-comment">#               (multiText, wx.EXPAND | wx.ALIGN_CENTER), </tt> </tt>
+<a name="L137"></a><tt class="py-lineno">137</tt>  <tt class="py-line">        <tt class="py-comment">#               (button, wx.EXPAND | wx.ALIGN_CENTER),</tt> </tt>
+<a name="L138"></a><tt class="py-lineno">138</tt>  <tt class="py-line">        <tt class="py-comment">#               ])</tt> </tt>
+<a name="L139"></a><tt class="py-lineno">139</tt>  <tt class="py-line">         </tt>
+<a name="L140"></a><tt class="py-lineno">140</tt>  <tt class="py-line">        <tt class="py-comment">#panel.SetSizer(wx.BoxSizer(wx.VERTICAL | wx.ALL))</tt> </tt>
+<a name="L141"></a><tt class="py-lineno">141</tt>  <tt class="py-line">        <tt class="py-comment">#panel.SetSizer(sizer)</tt> </tt>
+<a name="L142"></a><tt class="py-lineno">142</tt>  <tt class="py-line">        <tt class="py-comment">#panel.SetAutoLayout(True)</tt> </tt>
+<a name="L143"></a><tt class="py-lineno">143</tt>  <tt class="py-line">        <tt class="py-comment">#panel.Center()</tt> </tt>
+<a name="L144"></a><tt class="py-lineno">144</tt>  <tt class="py-line">         </tt>
+<a name="L145"></a><tt class="py-lineno">145</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">SetSizeWH</tt><tt class="py-op">(</tt><tt class="py-number">400</tt><tt class="py-op">,</tt> <tt class="py-number">430</tt><tt class="py-op">)</tt> </tt>
+<a name="L146"></a><tt class="py-lineno">146</tt>  <tt class="py-line">         </tt>
+<a name="L147"></a><tt class="py-lineno">147</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Show</tt><tt class="py-op">(</tt><tt class="py-op">)</tt>    </tt>
+</div><a name="L148"></a><tt class="py-lineno">148</tt>  <tt class="py-line"> </tt>
+<a name="TextFrame.boldFont"></a><div id="TextFrame.boldFont-def"><a name="L149"></a><tt class="py-lineno">149</tt> <a class="py-toggle" href="#" id="TextFrame.boldFont-toggle" onclick="return toggle('TextFrame.boldFont');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.TextFrame-class.html#boldFont">boldFont</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> <tt class="py-keyword">return</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">Font</tt><tt class="py-op">(</tt><tt class="py-number">10</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">DEFAULT</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">NORMAL</tt><tt class="py-op">,</tt> <tt class="py-name">wx</tt><tt class="py-op">.</tt><tt class="py-name">BOLD</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L150"></a><tt class="py-lineno">150</tt>  <tt class="py-line">     </tt>
+<a name="TextFrame.onContinue"></a><div id="TextFrame.onContinue-def"><a name="L151"></a><tt class="py-lineno">151</tt> <a class="py-toggle" href="#" id="TextFrame.onContinue-toggle" onclick="return toggle('TextFrame.onContinue');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.TextFrame-class.html#onContinue">onContinue</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">event</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Close</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L152"></a><tt class="py-lineno">152</tt>  <tt class="py-line">     </tt>
+<a name="TextFrame.onClose"></a><div id="TextFrame.onClose-def"><a name="L153"></a><tt class="py-lineno">153</tt> <a class="py-toggle" href="#" id="TextFrame.onClose-toggle" onclick="return toggle('TextFrame.onClose');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="clsGUI.TextFrame-class.html#onClose">onClose</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">event</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="TextFrame.onClose-collapsed" style="display:none;" pad="+++" indent="++++++++"></div><div id="TextFrame.onClose-expanded"><a name="L154"></a><tt class="py-lineno">154</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">Destroy</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L155"></a><tt class="py-lineno">155</tt>  <tt class="py-line">        <tt class="py-name">sys</tt><tt class="py-op">.</tt><tt class="py-name">exit</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L156"></a><tt class="py-lineno">156</tt>  <tt class="py-line">         </tt>
+<a name="L157"></a><tt class="py-lineno">157</tt>  <tt class="py-line"><tt class="py-comment">#class ModifyData(wx.Frame):</tt> </tt>
+<a name="L158"></a><tt class="py-lineno">158</tt>  <tt class="py-line"><tt class="py-comment">#    </tt> </tt>
+<a name="L159"></a><tt class="py-lineno">159</tt>  <tt class="py-line"><tt class="py-comment">#    def __init__(self, parent = None, title = "", *handlersList, **namedListsDict):</tt> </tt>
+<a name="L160"></a><tt class="py-lineno">160</tt>  <tt class="py-line"><tt class="py-comment">#        pass</tt> </tt>
+<a name="L161"></a><tt class="py-lineno">161</tt>  <tt class="py-line"> </tt><script type="text/javascript">
+<!--
+expandto(location.href);
+// -->
+</script>
+</pre>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Thu Sep 06 15:30:03 2012
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>

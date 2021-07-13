@@ -1,0 +1,54 @@
+1. 
+
+import os
+
+def read_dir(basedir):
+
+    files = os.listdir(basedir)
+
+    counter = 0
+
+    for root, dirs, files in os.walk(basedir):
+        for eachfile in files:
+            if os.path.getsize(os.path.join(root, eachfile)) == 0:
+                counter += 1
+                print("empty file: " + eachfile)
+    print("There are " + str(counter) + " zero length files.")
+
+filedir = "..//..//"
+print(os.path.abspath(filedir))
+read_dir(filedir)
+
+======================================
+
+2.
+
+import re
+import urllib.request
+import sys
+
+def count_images_in_url(url):
+    
+    try:
+        f = urllib.request.urlopen(url)
+    except IOError:
+        sys.stderr.write("no connection")
+        sys.exit
+    contents = str(f.read())    
+    f.close()
+
+    getimage = re.compile(r'''< *img +src *=*["'](.+?)["']''', re.I)
+    image = getimage.findall(contents)
+    
+    counter = 0
+    for eachimage in image:
+        counter += 1
+        print("Image " + str(counter) + ": " + eachimage)
+    
+    imagelen = len(image)
+    print("Total number of images in " + url + ": " + str(imagelen))
+    
+    return None
+
+site = 'http://www.barnesandnoble.com'
+count_images_in_url(site)    

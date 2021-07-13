@@ -1,0 +1,1 @@
+- updated w % spent comment, bw data checks for null IDs/weekend dates
